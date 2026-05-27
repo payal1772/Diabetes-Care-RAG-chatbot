@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile - Diabetes RAG Assistant</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<main class="profile-shell">
+    <section class="profile-container">
+        <div class="profile-header">
+            <div>
+                <p class="eyebrow">Account</p>
+                <h1>Your Profile</h1>
+                <p>Personal account details and glucose logging summary.</p>
+            </div>
+            <div class="profile-avatar" id="profileInitial">--</div>
+        </div>
+
+        <div id="profileMessage" class="profile-message">Loading profile...</div>
+
+        <section class="profile-grid" aria-label="Profile details">
+            <article class="profile-detail">
+                <span>Name</span>
+                <strong id="name">--</strong>
+            </article>
+            <article class="profile-detail">
+                <span>Email</span>
+                <strong id="email">--</strong>
+            </article>
+            <article class="profile-detail profile-stat">
+                <span>Total Glucose Logs</span>
+                <strong id="totalLogs">--</strong>
+            </article>
+            <article class="profile-detail profile-stat">
+                <span>Average Glucose</span>
+                <strong><span id="avgGlucose">--</span> <small>mg/dL</small></strong>
+            </article>
+        </section>
+
+        <div class="profile-actions">
+            <a class="profile-secondary-action" href="dashboard.html">Dashboard</a>
+            <a class="profile-primary-action" href="chatbot.html">Back to Chat</a>
+        </div>
+    </section>
+</main>
+
+<script src="js/profile.js"></script>
+</body>
+</html>

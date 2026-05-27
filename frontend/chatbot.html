@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes RAG Chatbot</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<main class="app-shell">
+    <section class="chat-container" aria-label="Diabetes chatbot">
+        <header class="chat-header">
+            <div class="chat-title">
+                <p class="eyebrow">RAG assistant</p>
+                <h1>Diabetes Care Chat</h1>
+                <p>Ask lifestyle questions using your latest glucose, meal, sleep, water, steps, and symptom context.</p>
+            </div>
+            <nav class="chat-actions" aria-label="Chat navigation">
+                <a class="header-action" href="dashboard.html">Dashboard</a>
+                <a class="header-action" href="profile.html">Profile</a>
+                <button type="button" onclick="logoutUser()" class="header-action header-action-danger">Logout</button>
+            </nav>
+        </header>
+
+        <section class="context-panel" aria-label="Patient context">
+            <div class="context-heading">
+                <h2>Patient Context</h2>
+                <p>These values are sent with each question.</p>
+            </div>
+
+            <label class="context-field context-field-number">
+                <span>Glucose</span>
+                <input type="number" id="glucose" value="185" placeholder="mg/dL">
+            </label>
+
+            <label class="context-field context-field-wide">
+                <span>Meal</span>
+                <input type="text" id="meal" value="Rice and curry" placeholder="Recent meal">
+            </label>
+
+            <label class="context-field">
+                <span>Sleep</span>
+                <input type="number" id="sleep" value="7" min="0" max="24" step="0.5" placeholder="Hours">
+            </label>
+
+            <label class="context-field">
+                <span>Water</span>
+                <input type="number" id="water" value="6" min="0" step="1" placeholder="Glasses">
+            </label>
+
+            <label class="context-field">
+                <span>Steps</span>
+                <input type="number" id="steps" value="5000" min="0" step="100" placeholder="Today">
+            </label>
+
+            <label class="context-field context-field-wide">
+                <span>Symptoms</span>
+                <input type="text" id="symptoms" value="None" placeholder="Current symptoms">
+            </label>
+        </section>
+
+        <section id="chatBox" class="chat-box" aria-live="polite">
+            <div class="message bot-message">
+                <span class="message-label">Assistant</span>
+                <span>Hi, I'm your Diabetes RAG Assistant. Ask me about glucose, food, sleep, water, steps, lifestyle, or symptoms.</span>
+            </div>
+        </section>
+
+        <section class="quick-prompts" aria-label="Suggested questions">
+            <button type="button" data-prompt="Why might my glucose be high after this meal?">High after meal</button>
+            <button type="button" data-prompt="What should I do safely right now based on my context?">Safe next steps</button>
+            <button type="button" data-prompt="How do sleep, water, and steps affect my glucose today?">Daily habits</button>
+        </section>
+
+        <form class="input-area" id="chatForm">
+            <label class="composer" for="message">
+                <span class="sr-only">Message</span>
+                <textarea id="message" rows="1" placeholder="Ask about your reading, meal, symptoms, or daily habits..."></textarea>
+            </label>
+            <button type="submit" id="sendButton" aria-label="Send message">Send</button>
+        </form>
+
+        <div class="safety-note">
+            This tool gives general lifestyle guidance only. Contact a healthcare professional for diagnosis, medication, insulin, or urgent symptoms.
+        </div >
+        
+    </section>
+</main>
+
+<script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,9396 @@
+Food: ALMOND MILK, UNSWEETENED, PLAIN, SHELF STABLE
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: APPLES, FUJI
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.1
+Fiber, total dietary: 1.9
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.2
+Fiber, total dietary: 2.0
+
+
+Food: APPLES, FUJI, WITH SKIN, RAW
+Fiber, total dietary: 2.08
+Fiber, total dietary: 2.13
+Fiber, total dietary: 2.32
+Fiber, total dietary: 1.89
+Fiber, total dietary: 2.17
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.04
+Fiber, total dietary: 1.97
+
+
+Food: APPLES, GALA
+Fiber, total dietary: 2.7
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.1
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.4
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.1
+
+
+Food: APPLES, GALA, WITH SKIN, RAW
+Fiber, total dietary: 2.73
+Fiber, total dietary: 1.89
+Fiber, total dietary: 1.79
+Fiber, total dietary: 2.39
+Fiber, total dietary: 1.82
+Fiber, total dietary: 2.12
+Fiber, total dietary: 2.13
+Fiber, total dietary: 2.0
+
+
+Food: APPLES, GRANNY SMITH
+Fiber, total dietary: 2.4
+Fiber, total dietary: 2.4
+Fiber, total dietary: 3.1
+Fiber, total dietary: 2.2
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.5
+Fiber, total dietary: 2.9
+
+
+Food: APPLES, GRANNY SMITH, WITH SKIN, RAW
+Fiber, total dietary: 2.45
+Fiber, total dietary: 2.27
+Fiber, total dietary: 2.15
+Fiber, total dietary: 2.43
+Fiber, total dietary: 3.07
+Fiber, total dietary: 2.54
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.9
+
+
+Food: APPLES, HONEYCRISP
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.5
+Fiber, total dietary: 1.6
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.5
+Fiber, total dietary: 1.7
+Fiber, total dietary: 2.0
+
+
+Food: APPLES, HONEYCRISP, WITH SKIN, RAW
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.875
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.49
+Fiber, total dietary: 1.54
+Fiber, total dietary: 1.84
+Fiber, total dietary: 1.61
+Fiber, total dietary: 1.95
+
+
+Food: APPLES, RED DELICIOUS
+Fiber, total dietary: 1.4
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.2
+Fiber, total dietary: 1.9
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.2
+Fiber, total dietary: 2.2
+
+
+Food: APPLES, RED DELICIOUS, WITH SKIN, RAW
+Fiber, total dietary: 1.43
+Fiber, total dietary: 2.29
+Fiber, total dietary: 2.075
+Fiber, total dietary: 2.21
+Fiber, total dietary: 2.17
+Fiber, total dietary: 2.24
+Fiber, total dietary: 1.89
+Fiber, total dietary: 2.04
+
+
+Food: Alaska Pollock, raw
+Carbohydrate, by difference: 0.0565
+Protein: 17.33
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Protein: 18.0
+Protein: 17.9
+Protein: 17.9
+Protein: 17.9
+Protein: 17.0
+Protein: 17.1
+Protein: 16.3
+Protein: 16.5
+
+
+Food: Almond butter, creamy
+Carbohydrate, by difference: 21.23666
+Protein: 20.78734
+Fiber, total dietary: 9.718
+
+
+Food: Almond milk, unsweetened, plain, refrigerated
+Carbohydrate, by difference: 0.67075
+Protein: 0.65625
+Fiber, total dietary: 0.0
+
+
+Food: Almond milk, unsweetened, plain, shelf stable
+Carbohydrate, by difference: 0.3371125
+Protein: 0.5546875
+Fiber, total dietary: 0.0
+Carbohydrate, by difference: 0.3371125
+Protein: 0.5546875
+Fiber, total dietary: 0.0
+
+
+Food: Almonds, dry roasted, salted - NFY1213I4
+Fiber, total dietary: 11.5
+
+
+Food: Almonds, dry roasted, salted - NFY1213IK
+Fiber, total dietary: 11.0
+
+
+Food: Almonds, dry roasted, salted - NFY1213J8
+Fiber, total dietary: 10.7
+
+
+Food: Almonds, dry roasted, salted - NFY1213JZ
+Fiber, total dietary: 10.9
+
+
+Food: Almonds, dry roasted, salted - NFY1213KL
+Fiber, total dietary: 10.6
+
+
+Food: Almonds, dry roasted, salted - NFY1213L0
+Fiber, total dietary: 11.2
+
+
+Food: Almonds, dry roasted, salted - NFY1213LG
+Fiber, total dietary: 11.3
+
+
+Food: Almonds, dry roasted, salted - NFY1213M2
+Fiber, total dietary: 10.8
+
+
+Food: Anchovies, canned in olive oil, with salt, drained
+Protein: 26.9375
+Carbohydrate, by difference: 2.4095
+
+
+Food: Apple juice, with added vitamin C, from concentrate, shelf stable
+Carbohydrate, by difference: 11.3639625
+Protein: 0.0859375
+
+
+Food: Apples, fuji, with skin, raw
+Energy: 65.0
+Fiber, total dietary: 2.1
+Energy: 271.0
+Protein: 0.15
+Carbohydrate, by difference: 15.7
+Carbohydrate, by difference: 15.6511625
+Protein: 0.1484375
+Fiber, total dietary: 2.075
+
+
+Food: Apples, gala, with skin, raw
+Fiber, total dietary: 2.1
+Protein: 0.13
+Carbohydrate, by difference: 14.8
+Energy: 61.0
+Energy: 256.0
+Carbohydrate, by difference: 14.7680875
+Protein: 0.1328125
+Fiber, total dietary: 2.109
+
+
+Food: Apples, granny smith, with skin, raw
+Protein: 0.27
+Fiber, total dietary: 2.5
+Energy: 59.0
+Energy: 247.0
+Carbohydrate, by difference: 14.2
+Carbohydrate, by difference: 14.142975
+Protein: 0.265625
+Fiber, total dietary: 2.514
+
+
+Food: Apples, honeycrisp, with skin, raw
+Energy: 60.0
+Fiber, total dietary: 1.7
+Protein: 0.1
+Energy: 252.0
+Carbohydrate, by difference: 14.7
+Carbohydrate, by difference: 14.6819375
+Protein: 0.1015625
+Fiber, total dietary: 1.721
+
+
+Food: Apples, red delicious, with skin, raw
+Protein: 0.19
+Fiber, total dietary: 2.0
+Carbohydrate, by difference: 14.8
+Energy: 258.0
+Energy: 62.0
+Carbohydrate, by difference: 14.7817
+Protein: 0.1875
+Fiber, total dietary: 2.043
+
+
+Food: Applesauce, unsweetened, with added vitamin C
+Carbohydrate, by difference: 12.2615625
+Protein: 0.2734375
+Carbohydrate, by difference: 12.2615625
+Protein: 0.2734375
+
+
+Food: Apricot, with skin, pitted, raw
+Fiber, total dietary: 1.24
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.69
+Fiber, total dietary: 1.49
+Fiber, total dietary: 1.33
+Fiber, total dietary: 1.78
+Fiber, total dietary: 1.43
+Fiber, total dietary: 1.72
+
+
+Food: Apricot, with skin, raw
+Carbohydrate, by difference: 10.23875
+Protein: 0.96125
+Fiber, total dietary: 1.51
+
+
+Food: Arugula, baby, raw
+Fiber, total dietary: 2.28
+Protein: 1.64875
+Carbohydrate, by difference: 5.36825
+Fiber, total dietary: 2.43
+Fiber, total dietary: 2.07
+Fiber, total dietary: 2.06
+Fiber, total dietary: 2.09
+Fiber, total dietary: 2.46
+Fiber, total dietary: 2.34
+Fiber, total dietary: 2.55
+
+
+Food: Arugula, baby, raw 
+Fiber, total dietary: 2.24
+
+
+Food: Asparagus, green, raw
+Carbohydrate, by difference: 5.1012
+Protein: 1.4375
+Fiber, total dietary: 1.883
+
+
+Food: Asparagus, green, whole spear, raw
+Fiber, total dietary: 2.02
+Fiber, total dietary: 1.91
+Fiber, total dietary: 1.82
+Fiber, total dietary: 1.68
+Fiber, total dietary: 1.59
+Fiber, total dietary: 1.97
+Fiber, total dietary: 1.86
+Fiber, total dietary: 2.21
+
+
+Food: Avocado, Hass, peeled, raw
+Protein: 1.8125
+Carbohydrate, by difference: 8.3235
+
+
+Food: BANANAS, OVERRIPE
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.6
+Fiber, total dietary: 2.3
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.3
+Fiber, total dietary: 1.6
+Fiber, total dietary: 1.8
+
+
+Food: BANANAS, OVERRIPE, MEDIUM SIZE
+Fiber, total dietary: 1.1
+
+
+Food: BANANAS, RIPE
+Fiber, total dietary: 2.2
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.2
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.1
+Fiber, total dietary: 1.8
+
+
+Food: BANANAS, RIPE, MEDIUM SIZE
+Fiber, total dietary: 1.1
+
+
+Food: BANANAS, SLIGHTLY RIPE
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.7
+
+
+Food: BANANAS, SLIGHTLY RIPE, MEDIUM SIZE
+Fiber, total dietary: 1.2
+
+
+Food: Baked beans, Original, canned, with pork
+Fiber, total dietary: 3.547
+Fiber, total dietary: 2.99
+Fiber, total dietary: 3.09
+Fiber, total dietary: 3.85
+Fiber, total dietary: 3.59
+Fiber, total dietary: 4.45
+Fiber, total dietary: 4.06
+Fiber, total dietary: 2.8
+
+
+Food: Bananas, overripe, raw
+Carbohydrate, by difference: 20.1
+Protein: 0.73
+Energy: 85.0
+Fiber, total dietary: 1.7
+Energy: 357.0
+Fiber, total dietary: 1.7
+Protein: 0.73
+Energy: 357.0
+Energy: 85.0
+Carbohydrate, by difference: 20.1
+
+
+Food: Bananas, ripe and slightly ripe, raw
+Protein: 0.74
+Energy: 97.0
+Fiber, total dietary: 1.7
+Energy: 408.0
+Carbohydrate, by difference: 23.0
+Energy: 97.0
+Carbohydrate, by difference: 23.0
+Energy: 408.0
+Fiber, total dietary: 1.7
+Protein: 0.74
+
+
+Food: Bartlett Pears, Pass 2, Freeze Dried, Regions 1 & 4, n/a, Yes - Fiber, NFY0108TR
+Fiber, total dietary: 2.8
+
+
+Food: Bartlett Pears, Pass 2, Freeze Dried, Regions 2 & 3, n/a, Yes - Fiber, NFY0108TX
+Fiber, total dietary: 2.5
+
+
+Food: Beans, Dry, Black (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.2
+Protein: 24.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 11F-8000 (0% moisture)
+Protein: 26.1
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 11F-8002 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 25.2
+
+
+Food: Beans, Dry, Black, 11F-8003 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Black, 11F-8013 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.0
+
+
+Food: Beans, Dry, Black, 11F-8015 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.0
+
+
+Food: Beans, Dry, Black, 11F-8016 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 21.7
+
+
+Food: Beans, Dry, Black, 11F-8020 (0% moisture)
+Protein: 25.8
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Black, 11F-8023 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Black, 11F-8029 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.8
+
+
+Food: Beans, Dry, Black, 11F-8036 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.2
+
+
+Food: Beans, Dry, Black, 11F-8039 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.7
+
+
+Food: Beans, Dry, Black, 11F-8044 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.5
+
+
+Food: Beans, Dry, Black, 11F-8045 (0% moisture)
+Protein: 26.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 11F-8046 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 11F-8062 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.7
+
+
+Food: Beans, Dry, Black, 11F-8112 (0% moisture)
+Protein: 21.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 11F-8116 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 11F-8117 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Black, 11F-8119 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 11F-8122 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.2
+
+
+Food: Beans, Dry, Black, 11F-8123 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 11F-8129 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 24.6
+
+
+Food: Beans, Dry, Black, 11F-8135 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Black, 11F-8140 (0% moisture)
+Protein: 26.3
+Fiber, total dietary: 4.8
+
+
+Food: Beans, Dry, Black, 11F-8146 (0% moisture)
+Fiber, total dietary: 4.8
+Protein: 26.0
+
+
+Food: Beans, Dry, Black, 11F-8150 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 11F-8158 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Black, 11F-8168 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.0
+
+
+Food: Beans, Dry, Black, 11F-8177 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.2
+
+
+Food: Beans, Dry, Black, 11F-8180 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 25.8
+
+
+Food: Beans, Dry, Black, 214 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 215 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Black, 219 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.4
+
+
+Food: Beans, Dry, Black, 221 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 222 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.7
+
+
+Food: Beans, Dry, Black, 223 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.0
+
+
+Food: Beans, Dry, Black, 225 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.7
+
+
+Food: Beans, Dry, Black, 227 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 232 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Black, 238 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 244 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Black, 247 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 248 (0% moisture)
+Protein: 22.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 249 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.8
+
+
+Food: Beans, Dry, Black, 250 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.6
+
+
+Food: Beans, Dry, Black, 251 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.4
+
+
+Food: Beans, Dry, Black, 254 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.9
+
+
+Food: Beans, Dry, Black, 258 (0% moisture)
+Protein: 22.1
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 259 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 263 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 266 (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 267 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.3
+
+
+Food: Beans, Dry, Black, 269 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.7
+
+
+Food: Beans, Dry, Black, 271 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 25.6
+
+
+Food: Beans, Dry, Black, 273 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.1
+
+
+Food: Beans, Dry, Black, 274 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Black, 276 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.4
+
+
+Food: Beans, Dry, Black, 278 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.6
+
+
+Food: Beans, Dry, Black, 282 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 286 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.1
+
+
+Food: Beans, Dry, Black, 288 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 291 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.1
+
+
+Food: Beans, Dry, Black, 296 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 24.9
+
+
+Food: Beans, Dry, Black, 297 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 298 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Black, 301 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.0
+
+
+Food: Beans, Dry, Black, 303 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Black, 304 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.4
+
+
+Food: Beans, Dry, Black, 305 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 310 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.8
+
+
+Food: Beans, Dry, Black, 314 (0% moisture)
+Protein: 21.8
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 317 (0% moisture)
+Protein: 21.7
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Black, 318 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 331 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Black, 348 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 26.0
+
+
+Food: Beans, Dry, Black, 395 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 424 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 472 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.4
+
+
+Food: Beans, Dry, Black, 522 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 526 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Black, 528 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.9
+
+
+Food: Beans, Dry, Black, 529 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.2
+
+
+Food: Beans, Dry, Black, 531 (0% moisture)
+Protein: 21.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 533 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 534 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Black, 536 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.5
+
+
+Food: Beans, Dry, Black, 537 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Black, 542 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 545 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 24.4
+
+
+Food: Beans, Dry, Black, 547 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 550 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 552 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Black, 553 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 562 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 566 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.3
+
+
+Food: Beans, Dry, Black, 569 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.5
+
+
+Food: Beans, Dry, Black, 570 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.3
+
+
+Food: Beans, Dry, Black, 572 (0% moisture)
+Protein: 25.8
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 573 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Black, 574 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 575 (0% moisture)
+Protein: 26.8
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 580 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.1
+
+
+Food: Beans, Dry, Black, 583 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.7
+
+
+Food: Beans, Dry, Black, 590 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.6
+
+
+Food: Beans, Dry, Black, 592 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 26.1
+
+
+Food: Beans, Dry, Black, 596 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 24.9
+
+
+Food: Beans, Dry, Black, 597 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 600 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 601 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.8
+
+
+Food: Beans, Dry, Black, 602 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 604 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.2
+
+
+Food: Beans, Dry, Black, 607 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.9
+
+
+Food: Beans, Dry, Black, 608 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Black, 610 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.3
+
+
+Food: Beans, Dry, Black, 611 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.8
+
+
+Food: Beans, Dry, Black, 615 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.1
+
+
+Food: Beans, Dry, Black, 617 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.9
+
+
+Food: Beans, Dry, Black, 619 (0% moisture)
+Protein: 26.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Black, 620 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 624 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.8
+
+
+Food: Beans, Dry, Black, 625 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.8
+
+
+Food: Beans, Dry, Black, 707 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Black, 737 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.3
+
+
+Food: Beans, Dry, Black, 745 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.8
+
+
+Food: Beans, Dry, Black, 753 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.8
+
+
+Food: Beans, Dry, Black, 767 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Brown (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.6
+Fiber, total dietary: 4.1
+Protein: 25.6
+
+
+Food: Beans, Dry, Brown, 351 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Brown, 679 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.1
+
+
+Food: Beans, Dry, Carioca (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.5
+Fiber, total dietary: 4.5
+Protein: 25.2
+
+
+Food: Beans, Dry, Carioca, 11F-8001 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.7
+
+
+Food: Beans, Dry, Carioca, 11F-8104 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Carioca, 217 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.8
+
+
+Food: Beans, Dry, Carioca, 622 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Cranberry (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.4
+Protein: 24.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Cranberry, 11F-8022 (0% moisture)
+Protein: 22.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Cranberry, 11F-8131 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Cranberry, 378 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.0
+
+
+Food: Beans, Dry, Cranberry, 750 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Dark Red Kidney (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.3
+Fiber, total dietary: 4.3
+Protein: 25.9
+
+
+Food: Beans, Dry, Dark Red Kidney, 11F-8040 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.4
+
+
+Food: Beans, Dry, Dark Red Kidney, 11F-8074 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 27.0
+
+
+Food: Beans, Dry, Dark Red Kidney, 11F-8130 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.6
+
+
+Food: Beans, Dry, Dark Red Kidney, 11F-8132 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Flor de Mayo (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.3
+Fiber, total dietary: 4.0
+Protein: 23.3
+
+
+Food: Beans, Dry, Flor de Mayo, 443 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Flor de Mayo, 823 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.7
+Protein: 24.7
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8008 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8010 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 11F-8025 (0% moisture)
+Protein: 26.4
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 11F-8051 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Great Northern, 11F-8052 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 24.2
+
+
+Food: Beans, Dry, Great Northern, 11F-8053 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.8
+
+
+Food: Beans, Dry, Great Northern, 11F-8060 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 11F-8063 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8067 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 11F-8068 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.0
+
+
+Food: Beans, Dry, Great Northern, 11F-8077 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.5
+
+
+Food: Beans, Dry, Great Northern, 11F-8085 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 11F-8087 (0% moisture)
+Protein: 26.6
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8090 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 11F-8092 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8093 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8097 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.7
+
+
+Food: Beans, Dry, Great Northern, 11F-8110 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.1
+
+
+Food: Beans, Dry, Great Northern, 11F-8113 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Great Northern, 11F-8125 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8128 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8134 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.0
+
+
+Food: Beans, Dry, Great Northern, 11F-8138 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 11F-8139 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8141 (0% moisture)
+Protein: 26.6
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8145 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 26.6
+
+
+Food: Beans, Dry, Great Northern, 11F-8152 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8155 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 11F-8163 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.2
+Protein: 24.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8171 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.1
+
+
+Food: Beans, Dry, Great Northern, 11F-8172 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 11F-8184 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8185 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 11F-8192 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.7
+
+
+Food: Beans, Dry, Great Northern, 11F-8194 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.4
+
+
+Food: Beans, Dry, Great Northern, 235 (0% moisture)
+Protein: 28.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 293 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.4
+
+
+Food: Beans, Dry, Great Northern, 306 (0% moisture)
+Protein: 26.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 315 (0% moisture)
+Protein: 28.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 327 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.4
+
+
+Food: Beans, Dry, Great Northern, 335 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 337 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 339 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 341 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.1
+
+
+Food: Beans, Dry, Great Northern, 346 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.7
+
+
+Food: Beans, Dry, Great Northern, 350 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 26.8
+
+
+Food: Beans, Dry, Great Northern, 363 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 364 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 375 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.3
+
+
+Food: Beans, Dry, Great Northern, 379 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.1
+
+
+Food: Beans, Dry, Great Northern, 380 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 384 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 385 (0% moisture)
+Protein: 23.8
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 387 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.5
+
+
+Food: Beans, Dry, Great Northern, 392 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 396 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 21.9
+
+
+Food: Beans, Dry, Great Northern, 401 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.8
+
+
+Food: Beans, Dry, Great Northern, 402 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 406 (0% moisture)
+Protein: 25.8
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 407 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.5
+
+
+Food: Beans, Dry, Great Northern, 412 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 415 (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 418 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.9
+
+
+Food: Beans, Dry, Great Northern, 423 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.2
+
+
+Food: Beans, Dry, Great Northern, 429 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 434 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.4
+
+
+Food: Beans, Dry, Great Northern, 438 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Great Northern, 441 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 444 (0% moisture)
+Protein: 23.8
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Great Northern, 446 (0% moisture)
+Protein: 31.6
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 447 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.3
+
+
+Food: Beans, Dry, Great Northern, 449 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.5
+
+
+Food: Beans, Dry, Great Northern, 453 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 457 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.7
+
+
+Food: Beans, Dry, Great Northern, 458 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.3
+
+
+Food: Beans, Dry, Great Northern, 460 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.4
+
+
+Food: Beans, Dry, Great Northern, 467 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.6
+
+
+Food: Beans, Dry, Great Northern, 474 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Great Northern, 485 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 495 (0% moisture)
+Protein: 26.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 501 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 507 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 25.7
+
+
+Food: Beans, Dry, Great Northern, 514 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.8
+
+
+Food: Beans, Dry, Great Northern, 518 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.4
+
+
+Food: Beans, Dry, Great Northern, 519 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 579 (0% moisture)
+Protein: 30.5
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Great Northern, 581 (0% moisture)
+Protein: 29.4
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 594 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 28.1
+
+
+Food: Beans, Dry, Great Northern, 616 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.2
+
+
+Food: Beans, Dry, Great Northern, 637 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 638 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.1
+
+
+Food: Beans, Dry, Great Northern, 644 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.8
+
+
+Food: Beans, Dry, Great Northern, 648 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.9
+
+
+Food: Beans, Dry, Great Northern, 651 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 655 (0% moisture)
+Protein: 23.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 656 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.8
+
+
+Food: Beans, Dry, Great Northern, 658 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 662 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 666 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 672 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.5
+
+
+Food: Beans, Dry, Great Northern, 675 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 680 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.2
+
+
+Food: Beans, Dry, Great Northern, 683 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 688 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.0
+
+
+Food: Beans, Dry, Great Northern, 689 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 693 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.8
+
+
+Food: Beans, Dry, Great Northern, 694 (0% moisture)
+Protein: 26.4
+Fiber, total dietary: 4.7
+
+
+Food: Beans, Dry, Great Northern, 697 (0% moisture)
+Protein: 27.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 706 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.8
+
+
+Food: Beans, Dry, Great Northern, 713 (0% moisture)
+Protein: 23.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 716 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 723 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.2
+
+
+Food: Beans, Dry, Great Northern, 726 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 28.7
+
+
+Food: Beans, Dry, Great Northern, 730 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.1
+
+
+Food: Beans, Dry, Great Northern, 741 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 742 (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 748 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.7
+
+
+Food: Beans, Dry, Great Northern, 762 (0% moisture)
+Protein: 26.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 763 (0% moisture)
+Protein: 25.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 766 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 768 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 777 (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 778 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Great Northern, 780 (0% moisture)
+Protein: 26.6
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 788 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.6
+
+
+Food: Beans, Dry, Great Northern, 789 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 790 (0% moisture)
+Protein: 26.8
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Great Northern, 792 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Great Northern, 800 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.1
+
+
+Food: Beans, Dry, Great Northern, 818 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 26.2
+
+
+Food: Beans, Dry, Great Northern, 822 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 26.8
+
+
+Food: Beans, Dry, Great Northern, 824 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Great Northern, 826 (0% moisture)
+Protein: 27.1
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Great Northern, 827 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 28.6
+
+
+Food: Beans, Dry, Great Northern, 828 (0% moisture)
+Protein: 28.8
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Light Red Kidney (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.0
+Fiber, total dietary: 4.5
+Protein: 25.0
+
+
+Food: Beans, Dry, Light Red Kidney, 11F-8186 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.0
+Protein: 25.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Light Tan (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.6
+Fiber, total dietary: 4.3
+Protein: 24.6
+
+
+Food: Beans, Dry, Light Tan, 11F-8086 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Light Tan, 11F-8174 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Medium Red (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.5
+Fiber, total dietary: 4.3
+Protein: 25.5
+
+
+Food: Beans, Dry, Medium Red, 490 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Medium Red, 756 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.9
+
+
+Food: Beans, Dry, Navy (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 4.3
+Protein: 24.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 11F-8004 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.8
+
+
+Food: Beans, Dry, Navy, 11F-8007 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 11F-8027 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.6
+
+
+Food: Beans, Dry, Navy, 11F-8028 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.7
+
+
+Food: Beans, Dry, Navy, 11F-8030 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.6
+
+
+Food: Beans, Dry, Navy, 11F-8043 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.5
+
+
+Food: Beans, Dry, Navy, 11F-8098 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Navy, 11F-8107 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 11F-8143 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.3
+
+
+Food: Beans, Dry, Navy, 11F-8162 (0% moisture)
+Protein: 23.0
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 11F-8165 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 11F-8179 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.2
+
+
+Food: Beans, Dry, Navy, 11F-8183 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Navy, 11F-8195 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 213 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.5
+
+
+Food: Beans, Dry, Navy, 216 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 20.2
+
+
+Food: Beans, Dry, Navy, 220 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.3
+
+
+Food: Beans, Dry, Navy, 226 (0% moisture)
+Protein: 22.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 228 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 229 (0% moisture)
+Protein: 22.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 230 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.0
+
+
+Food: Beans, Dry, Navy, 233 (0% moisture)
+Protein: 21.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 234 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.4
+
+
+Food: Beans, Dry, Navy, 236 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.6
+
+
+Food: Beans, Dry, Navy, 237 (0% moisture)
+Protein: 23.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 241 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.6
+
+
+Food: Beans, Dry, Navy, 242 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.9
+
+
+Food: Beans, Dry, Navy, 245 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.9
+
+
+Food: Beans, Dry, Navy, 246 (0% moisture)
+Protein: 20.8
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 252 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.6
+
+
+Food: Beans, Dry, Navy, 253 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 255 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 256 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 257 (0% moisture)
+Protein: 22.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 260 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 261 (0% moisture)
+Protein: 22.8
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 262 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 22.1
+
+
+Food: Beans, Dry, Navy, 264 (0% moisture)
+Protein: 23.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 268 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 277 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.3
+
+
+Food: Beans, Dry, Navy, 279 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 280 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.1
+
+
+Food: Beans, Dry, Navy, 281 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 24.9
+
+
+Food: Beans, Dry, Navy, 283 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Navy, 284 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Navy, 287 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 26.0
+
+
+Food: Beans, Dry, Navy, 289 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Navy, 290 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.0
+
+
+Food: Beans, Dry, Navy, 292 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.6
+
+
+Food: Beans, Dry, Navy, 294 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 295 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 299 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.4
+
+
+Food: Beans, Dry, Navy, 307 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.3
+
+
+Food: Beans, Dry, Navy, 308 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 311 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.7
+
+
+Food: Beans, Dry, Navy, 312 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.9
+
+
+Food: Beans, Dry, Navy, 313 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.7
+
+
+Food: Beans, Dry, Navy, 316 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.8
+
+
+Food: Beans, Dry, Navy, 319 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 320 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 386 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.5
+
+
+Food: Beans, Dry, Navy, 422 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 476 (0% moisture)
+Protein: 25.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 521 (0% moisture)
+Protein: 26.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 523 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 524 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 525 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 530 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.1
+
+
+Food: Beans, Dry, Navy, 532 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.8
+
+
+Food: Beans, Dry, Navy, 535 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Navy, 539 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.4
+
+
+Food: Beans, Dry, Navy, 541 (0% moisture)
+Protein: 21.0
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 543 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.4
+
+
+Food: Beans, Dry, Navy, 546 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Navy, 548 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.0
+
+
+Food: Beans, Dry, Navy, 551 (0% moisture)
+Protein: 22.7
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 554 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 28.9
+
+
+Food: Beans, Dry, Navy, 555 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.7
+
+
+Food: Beans, Dry, Navy, 556 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.6
+
+
+Food: Beans, Dry, Navy, 557 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.0
+
+
+Food: Beans, Dry, Navy, 558 (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 559 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 560 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 561 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.7
+
+
+Food: Beans, Dry, Navy, 565 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 567 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.2
+
+
+Food: Beans, Dry, Navy, 568 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 576 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 578 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 582 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Navy, 584 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.5
+
+
+Food: Beans, Dry, Navy, 585 (0% moisture)
+Protein: 26.2
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Navy, 586 (0% moisture)
+Protein: 25.2
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 587 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.1
+
+
+Food: Beans, Dry, Navy, 588 (0% moisture)
+Protein: 22.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 589 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 22.8
+
+
+Food: Beans, Dry, Navy, 595 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.8
+
+
+Food: Beans, Dry, Navy, 598 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 599 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.7
+
+
+Food: Beans, Dry, Navy, 603 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 605 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 609 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Navy, 612 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.3
+
+
+Food: Beans, Dry, Navy, 613 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 25.5
+
+
+Food: Beans, Dry, Navy, 614 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Navy, 623 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Navy, 626 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Navy, 627 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.3
+
+
+Food: Beans, Dry, Navy, 628 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.9
+
+
+Food: Beans, Dry, Navy, 719 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 21.3
+
+
+Food: Beans, Dry, Navy, 721 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.5
+
+
+Food: Beans, Dry, Navy, 771 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.2
+
+
+Food: Beans, Dry, Pink (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.4
+Fiber, total dietary: 4.1
+Protein: 23.4
+
+
+Food: Beans, Dry, Pink, 11F-8018 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pink, 11F-8019 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.2
+
+
+Food: Beans, Dry, Pink, 11F-8034 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.3
+
+
+Food: Beans, Dry, Pink, 11F-8041 (0% moisture)
+Protein: 23.8
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Pink, 11F-8058 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 24.2
+
+
+Food: Beans, Dry, Pink, 11F-8059 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.2
+
+
+Food: Beans, Dry, Pink, 11F-8082 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.2
+
+
+Food: Beans, Dry, Pink, 11F-8084 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.3
+
+
+Food: Beans, Dry, Pink, 11F-8105 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.4
+Protein: 23.9
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pink, 11F-8124 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.6
+
+
+Food: Beans, Dry, Pink, 11F-8136 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.8
+
+
+Food: Beans, Dry, Pink, 11F-8149 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pink, 11F-8156 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.2
+
+
+Food: Beans, Dry, Pink, 11F-8187 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.9
+
+
+Food: Beans, Dry, Pink, 11F-8188 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.1
+
+
+Food: Beans, Dry, Pink, 11F-8190 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pink, 11F-8193 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pink, 11F-8197 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.3
+Fiber, total dietary: 4.3
+Protein: 24.4
+
+
+Food: Beans, Dry, Pink, 321 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.2
+
+
+Food: Beans, Dry, Pink, 338 (0% moisture)
+Protein: 20.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 342 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.0
+Protein: 26.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pink, 354 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.1
+
+
+Food: Beans, Dry, Pink, 359 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.6
+
+
+Food: Beans, Dry, Pink, 399 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 20.6
+
+
+Food: Beans, Dry, Pink, 404 (0% moisture)
+Protein: 22.9
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 411 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 21.0
+
+
+Food: Beans, Dry, Pink, 430 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 24.5
+
+
+Food: Beans, Dry, Pink, 433 (0% moisture)
+Protein: 20.7
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 445 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 21.8
+
+
+Food: Beans, Dry, Pink, 448 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.0
+
+
+Food: Beans, Dry, Pink, 461 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 22.6
+
+
+Food: Beans, Dry, Pink, 477 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pink, 478 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 24.5
+
+
+Food: Beans, Dry, Pink, 481 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.7
+
+
+Food: Beans, Dry, Pink, 483 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 486 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.5
+
+
+Food: Beans, Dry, Pink, 502 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pink, 504 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.8
+
+
+Food: Beans, Dry, Pink, 629 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pink, 636 (0% moisture)
+Protein: 21.0
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pink, 641 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.0
+
+
+Food: Beans, Dry, Pink, 652 (0% moisture)
+Protein: 20.8
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pink, 664 (0% moisture)
+Protein: 21.8
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 687 (0% moisture)
+Protein: 21.1
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pink, 699 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pink, 701 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 712 (0% moisture)
+Protein: 21.0
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pink, 725 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 21.8
+
+
+Food: Beans, Dry, Pink, 732 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.1
+
+
+Food: Beans, Dry, Pink, 739 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pink, 752 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.0
+
+
+Food: Beans, Dry, Pink, 779 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.1
+
+
+Food: Beans, Dry, Pink, 794 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.5
+
+
+Food: Beans, Dry, Pink, 796 (0% moisture)
+Protein: 21.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pink, 803 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.3
+
+
+Food: Beans, Dry, Pink, 817 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.4
+
+
+Food: Beans, Dry, Pink, 819 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 4.1
+Fiber, total dietary: 4.1
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 11F-8006 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 11F-8012 (0% moisture)
+Protein: 27.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 11F-8024 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.3
+
+
+Food: Beans, Dry, Pinto, 11F-8026 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Pinto, 11F-8031 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 22.2
+
+
+Food: Beans, Dry, Pinto, 11F-8032 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 11F-8035 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 11F-8037 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 20.6
+
+
+Food: Beans, Dry, Pinto, 11F-8038 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 11F-8047 (0% moisture)
+Protein: 27.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 11F-8048 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 25.6
+
+
+Food: Beans, Dry, Pinto, 11F-8049 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.7
+
+
+Food: Beans, Dry, Pinto, 11F-8054 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pinto, 11F-8055 (0% moisture)
+Protein: 22.1
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 11F-8065 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pinto, 11F-8069 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 11F-8070 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 11F-8072 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.4
+
+
+Food: Beans, Dry, Pinto, 11F-8075 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 22.7
+
+
+Food: Beans, Dry, Pinto, 11F-8076 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.7
+
+
+Food: Beans, Dry, Pinto, 11F-8078 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 22.4
+
+
+Food: Beans, Dry, Pinto, 11F-8079 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 11F-8081 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.0
+
+
+Food: Beans, Dry, Pinto, 11F-8083 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 11F-8088 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Pinto, 11F-8089 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.2
+
+
+Food: Beans, Dry, Pinto, 11F-8091 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.3
+
+
+Food: Beans, Dry, Pinto, 11F-8094 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 11F-8095 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.3
+
+
+Food: Beans, Dry, Pinto, 11F-8096 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 11F-8099 (0% moisture)
+Protein: 27.3
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Pinto, 11F-8100 (0% moisture)
+Protein: 21.8
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pinto, 11F-8101 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 24.6
+
+
+Food: Beans, Dry, Pinto, 11F-8102 (0% moisture)
+Protein: 22.6
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 11F-8103 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.2
+
+
+Food: Beans, Dry, Pinto, 11F-8106 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.0
+
+
+Food: Beans, Dry, Pinto, 11F-8108 (0% moisture)
+Protein: 27.5
+Fiber, total dietary: 4.6
+
+
+Food: Beans, Dry, Pinto, 11F-8109 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.2
+
+
+Food: Beans, Dry, Pinto, 11F-8114 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 29.2
+
+
+Food: Beans, Dry, Pinto, 11F-8118 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 11F-8120 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.4
+
+
+Food: Beans, Dry, Pinto, 11F-8121 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 11F-8126 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.2
+
+
+Food: Beans, Dry, Pinto, 11F-8133 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 11F-8144 (0% moisture)
+Fiber, total dietary: 4.8
+Protein: 25.6
+
+
+Food: Beans, Dry, Pinto, 11F-8147 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.6
+
+
+Food: Beans, Dry, Pinto, 11F-8151 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 11F-8157 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 11F-8159 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.9
+
+
+Food: Beans, Dry, Pinto, 11F-8164 (0% moisture)
+Fiber, total dietary: 4.6
+Protein: 23.5
+
+
+Food: Beans, Dry, Pinto, 11F-8166 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 22.9
+
+
+Food: Beans, Dry, Pinto, 11F-8167 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 11F-8170 (0% moisture)
+Protein: 27.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 11F-8173 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.8
+
+
+Food: Beans, Dry, Pinto, 11F-8176 (0% moisture)
+Fiber, total dietary: 4.7
+Protein: 25.4
+
+
+Food: Beans, Dry, Pinto, 11F-8178 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 11F-8181 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.4
+
+
+Food: Beans, Dry, Pinto, 11F-8182 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.7
+
+
+Food: Beans, Dry, Pinto, 11F-8189 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.8
+
+
+Food: Beans, Dry, Pinto, 11F-8191 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 11F-8196 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 11F-8198 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 218 (0% moisture)
+Protein: 21.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 224 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.3
+
+
+Food: Beans, Dry, Pinto, 270 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 322 (0% moisture)
+Protein: 20.9
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 324 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 19.1
+
+
+Food: Beans, Dry, Pinto, 325 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 20.8
+
+
+Food: Beans, Dry, Pinto, 326 (0% moisture)
+Protein: 20.3
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 328 (0% moisture)
+Protein: 22.9
+Fiber, total dietary: 3.6
+
+
+Food: Beans, Dry, Pinto, 329 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 22.1
+
+
+Food: Beans, Dry, Pinto, 333 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.3
+
+
+Food: Beans, Dry, Pinto, 334 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 20.5
+
+
+Food: Beans, Dry, Pinto, 336 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 26.4
+
+
+Food: Beans, Dry, Pinto, 340 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.2
+
+
+Food: Beans, Dry, Pinto, 343 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 349 (0% moisture)
+Protein: 23.8
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 352 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 353 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.0
+
+
+Food: Beans, Dry, Pinto, 355 (0% moisture)
+Protein: 19.9
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Pinto, 356 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 358 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 20.0
+
+
+Food: Beans, Dry, Pinto, 360 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 361 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.5
+
+
+Food: Beans, Dry, Pinto, 362 (0% moisture)
+Protein: 22.8
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 365 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 22.1
+
+
+Food: Beans, Dry, Pinto, 366 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 367 (0% moisture)
+Protein: 23.3
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 368 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 23.1
+
+
+Food: Beans, Dry, Pinto, 371 (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 372 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 373 (0% moisture)
+Protein: 25.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 377 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 381 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.9
+
+
+Food: Beans, Dry, Pinto, 382 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 383 (0% moisture)
+Protein: 22.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 388 (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 389 (0% moisture)
+Protein: 21.3
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 390 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 391 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 393 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 394 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.5
+
+
+Food: Beans, Dry, Pinto, 397 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 398 (0% moisture)
+Protein: 27.7
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 408 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 410 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 413 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 414 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 416 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 26.1
+
+
+Food: Beans, Dry, Pinto, 420 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.1
+
+
+Food: Beans, Dry, Pinto, 421 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 425 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 26.3
+
+
+Food: Beans, Dry, Pinto, 426 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 24.8
+
+
+Food: Beans, Dry, Pinto, 427 (0% moisture)
+Protein: 21.9
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 428 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 20.8
+
+
+Food: Beans, Dry, Pinto, 432 (0% moisture)
+Protein: 27.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 435 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.2
+
+
+Food: Beans, Dry, Pinto, 436 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.0
+
+
+Food: Beans, Dry, Pinto, 437 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 440 (0% moisture)
+Protein: 21.1
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 442 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.0
+
+
+Food: Beans, Dry, Pinto, 450 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 22.4
+
+
+Food: Beans, Dry, Pinto, 451 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 452 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 23.0
+
+
+Food: Beans, Dry, Pinto, 454 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.7
+
+
+Food: Beans, Dry, Pinto, 455 (0% moisture)
+Protein: 24.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 456 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 459 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 20.6
+
+
+Food: Beans, Dry, Pinto, 462 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 463 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 464 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 465 (0% moisture)
+Protein: 29.4
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pinto, 466 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.7
+
+
+Food: Beans, Dry, Pinto, 468 (0% moisture)
+Protein: 30.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 469 (0% moisture)
+Protein: 22.9
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 475 (0% moisture)
+Protein: 26.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 479 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 23.3
+
+
+Food: Beans, Dry, Pinto, 480 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 482 (0% moisture)
+Protein: 20.3
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 484 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 489 (0% moisture)
+Protein: 20.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 492 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 494 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 496 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.9
+
+
+Food: Beans, Dry, Pinto, 497 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.4
+
+
+Food: Beans, Dry, Pinto, 498 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 499 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 503 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 506 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 27.8
+
+
+Food: Beans, Dry, Pinto, 510 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.6
+
+
+Food: Beans, Dry, Pinto, 511 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.1
+
+
+Food: Beans, Dry, Pinto, 512 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.7
+
+
+Food: Beans, Dry, Pinto, 513 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 515 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 26.1
+
+
+Food: Beans, Dry, Pinto, 516 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.3
+
+
+Food: Beans, Dry, Pinto, 517 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 520 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 563 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 591 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 26.4
+
+
+Food: Beans, Dry, Pinto, 621 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.2
+
+
+Food: Beans, Dry, Pinto, 630 (0% moisture)
+Protein: 21.5
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Pinto, 631 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.4
+
+
+Food: Beans, Dry, Pinto, 632 (0% moisture)
+Protein: 18.8
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Pinto, 633 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.0
+
+
+Food: Beans, Dry, Pinto, 634 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 20.3
+
+
+Food: Beans, Dry, Pinto, 639 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 21.5
+
+
+Food: Beans, Dry, Pinto, 640 (0% moisture)
+Protein: 23.0
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Pinto, 642 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 21.9
+
+
+Food: Beans, Dry, Pinto, 643 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.6
+
+
+Food: Beans, Dry, Pinto, 647 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.5
+
+
+Food: Beans, Dry, Pinto, 650 (0% moisture)
+Protein: 22.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 653 (0% moisture)
+Protein: 20.6
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 657 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.7
+
+
+Food: Beans, Dry, Pinto, 659 (0% moisture)
+Protein: 22.1
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 660 (0% moisture)
+Protein: 20.7
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 661 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 20.9
+
+
+Food: Beans, Dry, Pinto, 663 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.0
+
+
+Food: Beans, Dry, Pinto, 665 (0% moisture)
+Protein: 21.6
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 667 (0% moisture)
+Fiber, total dietary: 3.7
+Protein: 19.6
+
+
+Food: Beans, Dry, Pinto, 668 (0% moisture)
+Protein: 19.6
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Pinto, 669 (0% moisture)
+Protein: 26.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 671 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.0
+
+
+Food: Beans, Dry, Pinto, 676 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 677 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 678 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.0
+
+
+Food: Beans, Dry, Pinto, 681 (0% moisture)
+Protein: 21.3
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 682 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 684 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 21.7
+
+
+Food: Beans, Dry, Pinto, 686 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 691 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 692 (0% moisture)
+Protein: 20.7
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 695 (0% moisture)
+Protein: 21.1
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 696 (0% moisture)
+Protein: 21.6
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 700 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.4
+
+
+Food: Beans, Dry, Pinto, 702 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.1
+
+
+Food: Beans, Dry, Pinto, 704 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 26.8
+
+
+Food: Beans, Dry, Pinto, 705 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 708 (0% moisture)
+Protein: 25.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Pinto, 709 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 710 (0% moisture)
+Protein: 24.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 711 (0% moisture)
+Protein: 24.9
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 714 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.1
+
+
+Food: Beans, Dry, Pinto, 715 (0% moisture)
+Protein: 21.0
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 717 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.9
+
+
+Food: Beans, Dry, Pinto, 718 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.9
+
+
+Food: Beans, Dry, Pinto, 720 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.6
+
+
+Food: Beans, Dry, Pinto, 724 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.6
+
+
+Food: Beans, Dry, Pinto, 727 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.6
+
+
+Food: Beans, Dry, Pinto, 728 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 729 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 733 (0% moisture)
+Protein: 19.8
+Fiber, total dietary: 3.5
+
+
+Food: Beans, Dry, Pinto, 734 (0% moisture)
+Protein: 23.7
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 735 (0% moisture)
+Protein: 26.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 736 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.2
+
+
+Food: Beans, Dry, Pinto, 738 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 21.6
+
+
+Food: Beans, Dry, Pinto, 740 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.5
+
+
+Food: Beans, Dry, Pinto, 743 (0% moisture)
+Protein: 21.8
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 744 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 24.2
+
+
+Food: Beans, Dry, Pinto, 747 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.9
+
+
+Food: Beans, Dry, Pinto, 749 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Pinto, 751 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.3
+
+
+Food: Beans, Dry, Pinto, 754 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.7
+
+
+Food: Beans, Dry, Pinto, 758 (0% moisture)
+Protein: 24.4
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 761 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 27.6
+
+
+Food: Beans, Dry, Pinto, 764 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.0
+
+
+Food: Beans, Dry, Pinto, 765 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.4
+
+
+Food: Beans, Dry, Pinto, 770 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 773 (0% moisture)
+Protein: 27.9
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 775 (0% moisture)
+Protein: 20.7
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Pinto, 776 (0% moisture)
+Protein: 21.8
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 781 (0% moisture)
+Protein: 23.4
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 782 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.8
+
+
+Food: Beans, Dry, Pinto, 783 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.2
+
+
+Food: Beans, Dry, Pinto, 784 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.6
+
+
+Food: Beans, Dry, Pinto, 787 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 29.4
+
+
+Food: Beans, Dry, Pinto, 791 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 22.9
+
+
+Food: Beans, Dry, Pinto, 793 (0% moisture)
+Protein: 28.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Pinto, 795 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.3
+
+
+Food: Beans, Dry, Pinto, 801 (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Pinto, 802 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 805 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 23.1
+
+
+Food: Beans, Dry, Pinto, 807 (0% moisture)
+Protein: 25.1
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Pinto, 808 (0% moisture)
+Protein: 25.7
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Pinto, 809 (0% moisture)
+Protein: 25.3
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 810 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.7
+
+
+Food: Beans, Dry, Pinto, 812 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 814 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.6
+
+
+Food: Beans, Dry, Pinto, 815 (0% moisture)
+Protein: 22.8
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Pinto, 816 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 24.8
+
+
+Food: Beans, Dry, Pinto, 820 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.7
+
+
+Food: Beans, Dry, Pinto, 821 (0% moisture)
+Protein: 26.9
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Pinto, 825 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Red (0% moisture)
+Protein: 21.3
+Fiber, total dietary: 4.0
+Fiber, total dietary: 4.0
+Protein: 21.3
+
+
+Food: Beans, Dry, Red, 345 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 21.3
+
+
+Food: Beans, Dry, Red, 645 (0% moisture)
+Protein: 21.2
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.1
+Protein: 23.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 11F-8009 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.2
+
+
+Food: Beans, Dry, Small Red, 11F-8011 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Small Red, 11F-8014 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small Red, 11F-8017 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.6
+
+
+Food: Beans, Dry, Small Red, 11F-8021 (0% moisture)
+Protein: 23.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Small Red, 11F-8033 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 24.2
+
+
+Food: Beans, Dry, Small Red, 11F-8050 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Small Red, 11F-8056 (0% moisture)
+Protein: 23.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red, 11F-8073 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.4
+
+
+Food: Beans, Dry, Small Red, 11F-8111 (0% moisture)
+Protein: 22.4
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Small Red, 11F-8115 (0% moisture)
+Protein: 24.3
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Small Red, 11F-8137 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.7
+
+
+Food: Beans, Dry, Small Red, 11F-8142 (0% moisture)
+Fiber, total dietary: 4.8
+Protein: 24.5
+
+
+Food: Beans, Dry, Small Red, 11F-8153 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 23.8
+
+
+Food: Beans, Dry, Small Red, 11F-8154 (0% moisture)
+Protein: 23.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small Red, 11F-8161 (0% moisture)
+Fiber, total dietary: 4.5
+Protein: 25.7
+
+
+Food: Beans, Dry, Small Red, 11F-8169 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.5
+
+
+Food: Beans, Dry, Small Red, 11F-8199 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Small Red, 240 (0% moisture)
+Protein: 20.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Small Red, 323 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.6
+
+
+Food: Beans, Dry, Small Red, 330 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 20.7
+
+
+Food: Beans, Dry, Small Red, 332 (0% moisture)
+Protein: 21.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red, 344 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.9
+
+
+Food: Beans, Dry, Small Red, 347 (0% moisture)
+Protein: 21.5
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Small Red, 357 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 25.2
+
+
+Food: Beans, Dry, Small Red, 369 (0% moisture)
+Protein: 24.1
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Small Red, 370 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.7
+
+
+Food: Beans, Dry, Small Red, 374 (0% moisture)
+Protein: 22.0
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Small Red, 376 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.2
+
+
+Food: Beans, Dry, Small Red, 400 (0% moisture)
+Protein: 22.2
+Fiber, total dietary: 3.9
+
+
+Food: Beans, Dry, Small Red, 403 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.4
+
+
+Food: Beans, Dry, Small Red, 405 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 21.6
+
+
+Food: Beans, Dry, Small Red, 409 (0% moisture)
+Protein: 24.2
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 417 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 27.4
+
+
+Food: Beans, Dry, Small Red, 419 (0% moisture)
+Protein: 28.4
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 431 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.7
+
+
+Food: Beans, Dry, Small Red, 439 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 20.5
+
+
+Food: Beans, Dry, Small Red, 470 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.5
+
+
+Food: Beans, Dry, Small Red, 471 (0% moisture)
+Protein: 20.8
+Fiber, total dietary: 3.8
+
+
+Food: Beans, Dry, Small Red, 473 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.7
+
+
+Food: Beans, Dry, Small Red, 487 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.9
+
+
+Food: Beans, Dry, Small Red, 488 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.4
+
+
+Food: Beans, Dry, Small Red, 491 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.8
+
+
+Food: Beans, Dry, Small Red, 493 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 20.7
+
+
+Food: Beans, Dry, Small Red, 500 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.2
+
+
+Food: Beans, Dry, Small Red, 505 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 508 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.3
+
+
+Food: Beans, Dry, Small Red, 509 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 22.8
+
+
+Food: Beans, Dry, Small Red, 606 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.0
+
+
+Food: Beans, Dry, Small Red, 635 (0% moisture)
+Protein: 21.0
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red, 646 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.0
+
+
+Food: Beans, Dry, Small Red, 649 (0% moisture)
+Protein: 21.5
+Fiber, total dietary: 3.7
+
+
+Food: Beans, Dry, Small Red, 670 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.0
+
+
+Food: Beans, Dry, Small Red, 673 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 23.0
+
+
+Food: Beans, Dry, Small Red, 674 (0% moisture)
+Protein: 27.9
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small Red, 685 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.9
+
+
+Food: Beans, Dry, Small Red, 690 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.8
+
+
+Food: Beans, Dry, Small Red, 698 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Small Red, 703 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 23.9
+
+
+Food: Beans, Dry, Small Red, 722 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 24.5
+
+
+Food: Beans, Dry, Small Red, 731 (0% moisture)
+Protein: 22.3
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red, 746 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 22.3
+
+
+Food: Beans, Dry, Small Red, 755 (0% moisture)
+Fiber, total dietary: 4.0
+Protein: 22.0
+
+
+Food: Beans, Dry, Small Red, 757 (0% moisture)
+Fiber, total dietary: 3.8
+Protein: 22.3
+
+
+Food: Beans, Dry, Small Red, 759 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 760 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 25.8
+
+
+Food: Beans, Dry, Small Red, 769 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Small Red, 772 (0% moisture)
+Protein: 21.9
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 774 (0% moisture)
+Protein: 24.6
+Fiber, total dietary: 4.0
+
+
+Food: Beans, Dry, Small Red, 785 (0% moisture)
+Protein: 25.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Small Red, 786 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.3
+
+
+Food: Beans, Dry, Small Red, 797 (0% moisture)
+Fiber, total dietary: 3.9
+Protein: 20.8
+
+
+Food: Beans, Dry, Small Red, 798 (0% moisture)
+Protein: 25.4
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Small Red, 799 (0% moisture)
+Protein: 28.2
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small Red, 804 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 23.3
+
+
+Food: Beans, Dry, Small Red, 806 (0% moisture)
+Protein: 25.6
+Fiber, total dietary: 4.2
+
+
+Food: Beans, Dry, Small Red, 811 (0% moisture)
+Protein: 23.5
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small Red, 813 (0% moisture)
+Protein: 23.2
+Fiber, total dietary: 4.1
+
+
+Food: Beans, Dry, Small White (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 24.5
+Protein: 24.5
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small White, 11F-8057 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.9
+
+
+Food: Beans, Dry, Small White, 11F-8160 (0% moisture)
+Fiber, total dietary: 4.1
+Protein: 26.2
+
+
+Food: Beans, Dry, Small White, 239 (0% moisture)
+Protein: 24.0
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Small White, 265 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 21.7
+
+
+Food: Beans, Dry, Small White, 272 (0% moisture)
+Protein: 26.3
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Small White, 275 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.8
+
+
+Food: Beans, Dry, Small White, 285 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.8
+
+
+Food: Beans, Dry, Small White, 309 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 25.6
+
+
+Food: Beans, Dry, Small White, 527 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 22.3
+
+
+Food: Beans, Dry, Small White, 544 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 23.5
+
+
+Food: Beans, Dry, Small White, 549 (0% moisture)
+Protein: 24.8
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Small White, 564 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 23.6
+
+
+Food: Beans, Dry, Small White, 571 (0% moisture)
+Protein: 25.7
+Fiber, total dietary: 4.5
+
+
+Food: Beans, Dry, Small White, 618 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 25.7
+
+
+Food: Beans, Dry, Tan (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.8
+Protein: 26.8
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Tan, 11F-8005 (0% moisture)
+Protein: 27.6
+Fiber, total dietary: 4.7
+
+
+Food: Beans, Dry, Tan, 11F-8042 (0% moisture)
+Fiber, total dietary: 4.3
+Protein: 25.4
+
+
+Food: Beans, Dry, Tan, 11F-8148 (0% moisture)
+Protein: 26.4
+Fiber, total dietary: 4.3
+
+
+Food: Beans, Dry, Tan, 11F-8175 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 28.1
+
+
+Food: Beans, Dry, Tan, 231 (0% moisture)
+Fiber, total dietary: 4.2
+Protein: 26.6
+
+
+Food: Beans, Dry, Tan, 302 (0% moisture)
+Protein: 27.5
+Fiber, total dietary: 4.4
+
+
+Food: Beans, Dry, Tan, 540 (0% moisture)
+Fiber, total dietary: 4.4
+Protein: 26.4
+
+
+Food: Beans, Dry, Tan, 577 (0% moisture)
+Protein: 26.0
+Fiber, total dietary: 4.1
+
+
+Food: Beans, baked, canned, vegetarian
+Fiber, total dietary: 4.233
+Fiber, total dietary: 2.96
+Fiber, total dietary: 4.23
+Fiber, total dietary: 4.04
+Fiber, total dietary: 4.645
+Fiber, total dietary: 4.76
+Fiber, total dietary: 4.76
+
+
+Food: Beans, black, canned, sodium added, drained and rinsed
+Protein: 6.9125
+Carbohydrate, by difference: 19.8135
+
+
+Food: Beans, cannellini, canned, sodium added, drained and rinsed
+Protein: 7.4125
+Carbohydrate, by difference: 18.8185
+
+
+Food: Beans, cannellini, dry
+Protein: 21.5625
+Carbohydrate, by difference: 59.7955
+
+
+Food: Beans, great northern, canned, sodium added, drained and rinsed
+Protein: 7.03125
+Carbohydrate, by difference: 19.32875
+
+
+Food: Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed
+Protein: 7.8
+Carbohydrate, by difference: 21.03
+
+
+Food: Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed
+Protein: 7.30625
+Carbohydrate, by difference: 21.44675
+
+
+Food: Beans, navy, canned, sodium added, drained and rinsed
+Protein: 6.56875
+Carbohydrate, by difference: 19.98325
+
+
+Food: Beans, pinto, canned, sodium added, drained and rinsed
+Protein: 6.69375
+Carbohydrate, by difference: 19.60025
+
+
+Food: Beans, snap, green, canned, regular pack, drained solids
+Energy: 86.0
+Carbohydrate, by difference: 4.11
+Protein: 1.04
+Energy: 21.0
+
+
+Food: Beans, snap, green, raw
+Carbohydrate, by difference: 7.41245
+Protein: 1.96875
+Fiber, total dietary: 3.011
+
+
+Food: Beef, chuck, roast, boneless, choice, raw
+Carbohydrate, by difference: 0.0
+Protein: 18.4
+
+
+Food: Beef, flank, steak, boneless, choice, raw
+Carbohydrate, by difference: 0.0
+Protein: 20.13125
+
+
+Food: Beef, ground, 80% lean meat / 20% fat, raw
+Protein: 17.53125
+Carbohydrate, by difference: 0.0
+
+
+Food: Beef, ground, 90% lean meat / 10% fat, raw
+Protein: 18.15625
+Carbohydrate, by difference: 0.0
+
+
+Food: Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0" fat, select, cooked, roasted
+Energy: 176.0
+Protein: 27.7
+Energy: 735.0
+Carbohydrate, by difference: 0.0
+Energy: 735.0
+Protein: 27.7
+Carbohydrate, by difference: 0.0
+Energy: 176.0
+
+
+Food: Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, choice, raw
+Energy: 648.0
+Energy: 155.0
+Protein: 22.8
+Carbohydrate, by difference: 0.0
+Energy: 155.0
+Energy: 648.0
+Protein: 22.8
+Carbohydrate, by difference: 0.0
+
+
+Food: Beef, ribeye, steak, boneless, choice, raw
+Carbohydrate, by difference: 0.0
+Protein: 18.74375
+
+
+Food: Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, select, raw
+Carbohydrate, by difference: 0.0
+Energy: 512.0
+Energy: 122.0
+Protein: 23.4
+Protein: 23.4
+Energy: 512.0
+Carbohydrate, by difference: 0.0
+Energy: 122.0
+
+
+Food: Beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, select, raw
+Energy: 514.0
+Energy: 123.0
+Carbohydrate, by difference: 0.0
+Protein: 23.7
+Protein: 23.7
+Energy: 123.0
+Energy: 514.0
+Carbohydrate, by difference: 0.0
+
+
+Food: Beef, round, top round, boneless, choice, raw
+Carbohydrate, by difference: 0.852
+Protein: 21.475
+
+
+Food: Beef, short loin (NY strip steak), raw
+Protein: 21.325
+Carbohydrate, by difference: 0.2212
+
+
+Food: Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, select, raw
+Protein: 22.7
+Energy: 145.0
+Energy: 606.0
+Carbohydrate, by difference: 0.0
+Energy: 145.0
+Carbohydrate, by difference: 0.0
+Protein: 22.7
+Energy: 606.0
+
+
+Food: Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, cooked, grilled
+Energy: 918.0
+Carbohydrate, by difference: 0.0
+Protein: 27.3
+Energy: 219.0
+Energy: 219.0
+Protein: 27.3
+Carbohydrate, by difference: 0.0
+Energy: 918.0
+
+
+Food: Beef, top sirloin steak, raw
+Protein: 21.975
+Carbohydrate, by difference: 0.218
+
+
+Food: Beef, tenderloin steak, raw
+Protein: 21.09375
+Carbohydrate, by difference: 0.18025
+
+
+Food: Beet greens, raw
+Carbohydrate, by difference: 4.658825
+Protein: 1.609375
+Fiber, total dietary: 2.578
+Fiber, total dietary: 2.26
+Fiber, total dietary: 2.84
+Fiber, total dietary: 2.08
+Fiber, total dietary: 2.51
+Fiber, total dietary: 2.63
+Fiber, total dietary: 3.33
+Fiber, total dietary: 2.85
+Fiber, total dietary: 2.12
+
+
+Food: Beets, raw
+Carbohydrate, by difference: 8.787
+Protein: 1.6875
+Fiber, total dietary: 3.119
+Fiber, total dietary: 1.95
+Fiber, total dietary: 2.84
+Fiber, total dietary: 3.5
+Fiber, total dietary: 2.52
+Fiber, total dietary: 2.16
+Fiber, total dietary: 4.37
+Fiber, total dietary: 2.92
+Fiber, total dietary: 4.69
+
+
+Food: Bison, ground, raw
+Protein: 19.88125
+Carbohydrate, by difference: -0.14955
+
+
+Food: Blackberries, raw
+Fiber, total dietary: 5.3
+Protein: 1.52625
+Fiber, total dietary: 4.5
+Fiber, total dietary: 5.3
+Fiber, total dietary: 6.1
+Fiber, total dietary: 5.5
+Fiber, total dietary: 5.7
+Fiber, total dietary: 5.7
+Fiber, total dietary: 3.9
+Fiber, total dietary: 5.8
+
+
+Food: Blackeye pea, canned, sodium added, drained and rinsed
+Protein: 6.925
+Carbohydrate, by difference: 19.1659
+
+
+Food: Blackeye pea, dry
+Protein: 21.225
+Carbohydrate, by difference: 61.836
+
+
+Food: Blueberries, raw
+Carbohydrate, by difference: 14.571775
+Protein: 0.703125
+Carbohydrate, by difference: 14.571775
+Protein: 0.703125
+
+
+Food: Bok choy, regular (not baby), raw
+Fiber, total dietary: 0.88
+Fiber, total dietary: 0.77
+Fiber, total dietary: 1.65
+Fiber, total dietary: 1.1
+Fiber, total dietary: 1.01
+Fiber, total dietary: 1.11
+Fiber, total dietary: 2.61
+Fiber, total dietary: 0.94
+
+
+Food: Bread, white, commercially prepared
+Protein: 9.43
+Energy: 1130.0
+Fiber, total dietary: 2.3
+Energy: 270.0
+Carbohydrate, by difference: 49.2
+
+
+Food: Bread, whole-wheat, commercially prepared
+Protein: 12.3
+Energy: 1060.0
+Fiber, total dietary: 6.0
+Carbohydrate, by difference: 43.1
+Energy: 254.0
+
+
+Food: Broccoli, Cooked, Region 2, n/a, Yes, Fiber - NFY01049U
+Fiber, total dietary: 2.2
+
+
+Food: Broccoli, Cooked, Region 4, n/a, Yes, Fiber - NFY0104D6
+Fiber, total dietary: 3.2
+
+
+Food: Broccoli, Region 1, n/a, Yes, Fiber - NFY01047T
+Fiber, total dietary: 2.0
+
+
+Food: Broccoli, Region 2, n/a, Yes, Fiber - NFY01048R
+Fiber, total dietary: 2.5
+
+
+Food: Broccoli, Region 3, n/a, Yes, Fiber - NFY0104B1
+Fiber, total dietary: 2.5
+
+
+Food: Broccoli, Region 4, n/a, Yes, Fiber - NFY0104C5
+Fiber, total dietary: 2.7
+
+
+Food: Broccoli, raw
+Fiber, total dietary: 2.4
+Energy: 132.0
+Protein: 2.57
+Energy: 32.0
+Carbohydrate, by difference: 6.29
+Fiber, total dietary: 2.4
+Carbohydrate, by difference: 6.27
+Energy: 132.0
+Energy: 31.0
+Protein: 2.57
+
+
+Food: Brussels sprouts, raw
+Fiber, total dietary: 4.785
+Protein: 3.984375
+Carbohydrate, by difference: 9.615625
+Fiber, total dietary: 4.15
+Fiber, total dietary: 4.21
+Fiber, total dietary: 4.8
+Fiber, total dietary: 5.07
+Fiber, total dietary: 4.64
+Fiber, total dietary: 5.15
+Fiber, total dietary: 4.99
+Fiber, total dietary: 5.27
+
+
+Food: Buckwheat, whole grain
+Carbohydrate, by difference: 71.13066
+Protein: 11.06534
+Fiber, total dietary: 4.046
+
+
+Food: Bulgur, dry, raw
+Carbohydrate, by difference: 75.88175
+Protein: 11.75625
+Fiber, total dietary: 11.72
+Fiber, total dietary: 12.48
+Fiber, total dietary: 11.29
+Fiber, total dietary: 13.48
+Fiber, total dietary: 10.44
+Fiber, total dietary: 12.1
+Fiber, total dietary: 10.26
+Fiber, total dietary: 11.35
+Fiber, total dietary: 12.38
+
+
+Food: Buttermilk, low fat
+Carbohydrate, by difference: 4.811522
+Protein: 3.464978
+
+
+Food: Cabbage, bok choy, raw
+Fiber, total dietary: 1.259
+Protein: 1.02375
+Carbohydrate, by difference: 3.51495
+
+
+Food: Cabbage, green, raw
+Protein: 0.96125
+Carbohydrate, by difference: 6.38375
+
+
+Food: Cabbage, napa, leaf, destemmed, raw
+Fiber, total dietary: 1.2
+Protein: 1.06375
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.5
+Fiber, total dietary: 1.0
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.2
+Fiber, total dietary: 0.7
+
+
+Food: Cabbage, red, raw
+Protein: 1.2425
+Carbohydrate, by difference: 6.7899
+
+
+Food: Carrots, baby, raw
+Carbohydrate, by difference: 9.0787
+Protein: 0.805
+Fiber, total dietary: 2.694
+
+
+Food: Carrots, frozen, unprepared
+Energy: 153.0
+Fiber, total dietary: 3.2
+Energy: 37.0
+Carbohydrate, by difference: 7.92
+Protein: 0.81
+
+
+Food: Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+Protein: 0.81
+Fiber, total dietary: 3.2
+Energy: 37.0
+Carbohydrate, by difference: 7.92
+Energy: 153.0
+
+
+Food: Carrots, mature, raw
+Carbohydrate, by difference: 10.26755
+Protein: 0.94125
+Fiber, total dietary: 3.095
+
+
+Food: Cauliflower, raw
+Fiber, total dietary: 1.948
+Protein: 1.640625
+Carbohydrate, by difference: 4.723075
+Fiber, total dietary: 1.65
+Fiber, total dietary: 1.81
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.95
+Fiber, total dietary: 2.38
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.21
+Fiber, total dietary: 1.58
+
+
+Food: Celery, raw
+Protein: 0.4921875
+Carbohydrate, by difference: 3.3165125
+
+
+Food: Cheese, American, restaurant
+Energy: 1570.0
+Energy: 375.0
+Protein: 17.5
+Carbohydrate, by difference: 6.35
+
+
+Food: Cheese, cheddar
+Energy: 408.0
+Carbohydrate, by difference: 2.44
+Energy: 1710.0
+Protein: 23.3
+
+
+Food: Cheese, cotija, solid
+Carbohydrate, by difference: 2.72432
+Protein: 23.83568
+
+
+Food: Cheese, cottage, lowfat, 2% milkfat
+Carbohydrate, by difference: 4.31
+Protein: 11.0
+Energy: 84.0
+Energy: 352.0
+
+
+Food: Cheese, dry white, queso seco
+Carbohydrate, by difference: 2.07
+Energy: 326.0
+Protein: 24.5
+Energy: 1360.0
+Carbohydrate, by difference: 2.07
+Protein: 24.5
+Energy: 1360.0
+Energy: 326.0
+
+
+Food: Cheese, feta, whole milk, crumbled
+Carbohydrate, by difference: 5.58318
+Protein: 19.70782
+
+
+Food: Cheese, monterey jack, solid
+Carbohydrate, by difference: 1.8979
+Protein: 22.6171
+
+
+Food: Cheese, mozzarella, low moisture, part-skim
+Energy: 1240.0
+Carbohydrate, by difference: 4.44
+Protein: 23.7
+Energy: 298.0
+
+
+Food: Cheese, oaxaca, solid
+Carbohydrate, by difference: 2.40202
+Protein: 22.14498
+
+
+Food: Cheese, parmesan, grated
+Energy: 421.0
+Carbohydrate, by difference: 12.4
+Protein: 29.6
+Energy: 1760.0
+
+
+Food: Cheese, parmesan, grated, refrigerated
+Carbohydrate, by difference: 4.33188
+Protein: 30.13912
+
+
+Food: Cheese, pasteurized process cheese food or product, American, singles
+Carbohydrate, by difference: 8.1898
+Protein: 15.5672
+
+
+Food: Cheese, pasteurized process, American, vitamin D fortified
+Protein: 18.0
+Energy: 366.0
+Carbohydrate, by difference: 5.27
+Energy: 1530.0
+
+
+Food: Cheese, provolone, sliced
+Carbohydrate, by difference: 2.45312
+Protein: 23.45288
+
+
+Food: Cheese, queso fresco, solid
+Carbohydrate, by difference: 2.9572
+Protein: 18.8848
+
+
+Food: Cheese, ricotta, whole milk
+Energy: 157.0
+Energy: 657.0
+Carbohydrate, by difference: 6.86
+Protein: 7.81
+Energy: 157.0
+Carbohydrate, by difference: 6.86
+Protein: 7.81
+Energy: 657.0
+
+
+Food: Cheese, swiss
+Carbohydrate, by difference: 1.44
+Energy: 1640.0
+Protein: 27.0
+Energy: 393.0
+Protein: 27.0
+Energy: 393.0
+Energy: 1640.0
+Carbohydrate, by difference: 1.44
+
+
+Food: Cherries, sweet, dark red, raw
+Carbohydrate, by difference: 16.163125
+Protein: 1.039375
+
+
+Food: Chia seeds, dry, raw
+Carbohydrate, by difference: 38.273
+Protein: 17.013
+
+
+Food: Chicken, breast, boneless, skinless, raw
+Carbohydrate, by difference: 0.0
+Protein: 22.525
+
+
+Food: Chicken, breast, meat and skin, raw
+Protein: 21.40625
+Carbohydrate, by difference: -0.42825
+
+
+Food: Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+Energy: 695.0
+Carbohydrate, by difference: 0.0
+Protein: 32.1
+Energy: 166.0
+
+
+Food: Chicken, broilers or fryers, drumstick, meat only, cooked, braised
+Energy: 156.0
+Energy: 652.0
+Protein: 23.9
+Carbohydrate, by difference: 0.0
+
+
+Food: Chicken, drumstick, meat and skin, raw
+Protein: 18.35625
+Carbohydrate, by difference: -0.47505
+
+
+Food: Chicken, ground, with additives, raw
+Protein: 17.9125
+Carbohydrate, by difference: 0.0
+
+
+Food: Chicken, thigh, boneless, skinless, raw
+Carbohydrate, by difference: 0.0
+Protein: 18.6125
+
+
+Food: Chicken, thigh, meat and skin, raw
+Protein: 17.10625
+Carbohydrate, by difference: -0.17255
+
+
+Food: Chicken, wing, meat and skin, raw
+Protein: 18.40625
+Carbohydrate, by difference: -0.45875
+
+
+Food: Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed
+Protein: 7.01875
+Carbohydrate, by difference: 20.32025
+
+
+Food: Chickpeas, (garbanzo beans, bengal gram), dry
+Protein: 21.275
+Carbohydrate, by difference: 60.358
+
+
+Food: Cod, Pacific or Alaskan, frozen, wild caught
+Protein: 14.2
+Carbohydrate, by difference: 0.524
+
+
+Food: Collards, raw
+Fiber, total dietary: 3.816
+Protein: 2.96875
+Carbohydrate, by difference: 7.02225
+Fiber, total dietary: 3.56
+Fiber, total dietary: 2.72
+Fiber, total dietary: 3.72
+Fiber, total dietary: 4.14
+Fiber, total dietary: 3.23
+Fiber, total dietary: 4.85
+Fiber, total dietary: 4.83
+Fiber, total dietary: 3.48
+
+
+Food: Cookies, oatmeal, soft, with raisins
+Energy: 1800.0
+Fiber, total dietary: 3.3
+Carbohydrate, by difference: 69.6
+Energy: 430.0
+Protein: 5.79
+
+
+Food: Corn flour, masa harina, white or yellow, dry, raw
+Carbohydrate, by difference: 76.6895
+Fiber, total dietary: 7.038
+Protein: 7.5625
+
+
+Food: Corn flour, masa harina, white, dry, raw
+Fiber, total dietary: 6.32
+Fiber, total dietary: 9.38
+Fiber, total dietary: 6.93
+
+
+Food: Corn flour, masa harina, yellow, dry, raw
+Fiber, total dietary: 7.37
+Fiber, total dietary: 6.54
+Fiber, total dietary: 5.69
+
+
+Food: Corn, sweet, yellow and white kernels, husked, kernels cut off, raw
+Fiber, total dietary: 3.8
+Fiber, total dietary: 3.0
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.01
+Fiber, total dietary: 2.01
+Fiber, total dietary: 1.62
+Fiber, total dietary: 2.52
+Fiber, total dietary: 2.16
+
+
+Food: Corn, sweet, yellow and white kernels,  fresh, raw
+Carbohydrate, by difference: 14.689625
+Protein: 2.789375
+Fiber, total dietary: 2.428
+
+
+Food: Cottage cheese, full fat, large or small curd
+Carbohydrate, by difference: 4.59964
+Protein: 11.62436
+
+
+Food: Cranberries, dried, sweetened
+Fiber, total dietary: 4.36
+Fiber, total dietary: 4.7
+Fiber, total dietary: 4.54
+Fiber, total dietary: 4.24
+Fiber, total dietary: 3.96
+
+
+Food: Cranberry juice, not fortified, from concentrate, shelf stable
+Carbohydrate, by difference: 7.26375
+Protein: 0.0
+
+
+Food: Cream cheese, full fat, block
+Carbohydrate, by difference: 4.55615
+Protein: 5.78985
+
+
+Food: Cream, heavy
+Carbohydrate, by difference: 3.799506
+Protein: 2.017994
+
+
+Food: Cream, sour, full fat
+Carbohydrate, by difference: 5.555506
+Protein: 3.070694
+
+
+Food: Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated
+Carbohydrate, by difference: 0.0
+Protein: 18.65
+
+
+Food: Crustaceans, shrimp, farm raised, raw
+Carbohydrate, by difference: 0.48495
+Protein: 15.56875
+
+
+Food: Cucumber, with peel, raw
+Protein: 0.625
+Carbohydrate, by difference: 2.9525
+
+
+Food: Edamame, frozen, prepared
+Fiber, total dietary: 6.233
+Fiber, total dietary: 5.81
+Fiber, total dietary: 5.55
+Fiber, total dietary: 6.6
+Fiber, total dietary: 6.97
+
+
+Food: Egg, white, dried
+Carbohydrate, by difference: 6.02
+Protein: 79.9
+Energy: 376.0
+Energy: 1570.0
+
+
+Food: Egg, white, raw, frozen, pasteurized
+Energy: 201.0
+Energy: 48.0
+Carbohydrate, by difference: 0.74
+Protein: 10.1
+
+
+Food: Egg, whole, dried
+Energy: 575.0
+Carbohydrate, by difference: 1.87
+Protein: 48.1
+Energy: 2410.0
+
+
+Food: Egg, whole, raw, frozen, pasteurized
+Carbohydrate, by difference: 0.91
+Energy: 150.0
+Protein: 12.3
+Energy: 627.0
+
+
+Food: Egg, yolk, dried
+Energy: 2740.0
+Protein: 34.2
+Carbohydrate, by difference: 1.07
+Energy: 654.0
+
+
+Food: Egg, yolk, raw, frozen, pasteurized
+Energy: 1240.0
+Protein: 15.6
+Carbohydrate, by difference: 0.59
+Energy: 296.0
+
+
+Food: Eggplant, Italian, raw
+Fiber, total dietary: 2.49
+Fiber, total dietary: 2.27
+Fiber, total dietary: 2.25
+Fiber, total dietary: 2.27
+Fiber, total dietary: 2.54
+Fiber, total dietary: 2.83
+Fiber, total dietary: 2.75
+Fiber, total dietary: 2.18
+
+
+Food: Eggplant, raw
+Carbohydrate, by difference: 5.399325
+Protein: 0.851875
+Fiber, total dietary: 2.448
+
+
+Food: Eggs, Grade A, Large, egg white
+Energy: 55.0
+Carbohydrate, by difference: 2.36
+Protein: 10.7
+Energy: 231.0
+
+
+Food: Eggs, Grade A, Large, egg whole
+Carbohydrate, by difference: 0.96
+Protein: 12.4
+Fiber, total dietary: 0.0
+Energy: 617.0
+Energy: 148.0
+
+
+Food: Eggs, Grade A, Large, egg yolk
+Energy: 1400.0
+Protein: 16.2
+Carbohydrate, by difference: 1.02
+Energy: 334.0
+
+
+Food: Eggs; whole
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: Einkorn, grain, dry, raw
+Carbohydrate, by difference: 68.65381
+Protein: 15.11719
+Fiber, total dietary: 8.913
+
+
+Food: Einkorn, grain, wheat berry, dry, raw
+Fiber, total dietary: 9.6
+Fiber, total dietary: 8.18
+Fiber, total dietary: 8.0
+Fiber, total dietary: 9.35
+Fiber, total dietary: 8.11
+Fiber, total dietary: 8.39
+Fiber, total dietary: 9.67
+Fiber, total dietary: 10.0
+
+
+Food: FLOUR, ALL PURPOSE (UNENRICHED) (UNBLEACHED)
+Fiber, total dietary: 2.7
+
+
+Food: FLOUR, ALL PURPOSE (UNENRICHED) (UNBLEACHED) (ORGANIC)
+Fiber, total dietary: 3.4
+Fiber, total dietary: 3.2
+Fiber, total dietary: 3.0
+Fiber, total dietary: 2.9
+Fiber, total dietary: 3.0
+
+
+Food: FLOUR, CORN, YELLOW (FINE MEAL) (ENRICHED)
+Fiber, total dietary: 4.4
+Fiber, total dietary: 4.1
+Fiber, total dietary: 4.3
+Fiber, total dietary: 4.5
+
+
+Food: FLOUR, RICE, WHITE
+Fiber, total dietary: 0.6
+Fiber, total dietary: 0.5
+Fiber, total dietary: 0.2
+Fiber, total dietary: 0.6
+Fiber, total dietary: 0.5
+
+
+Food: FLOUR, RICE, WHITE (ORGANIC)
+Fiber, total dietary: 0.6
+
+
+Food: FLOUR, WHOLE WHEAT (UNENRICHED)
+Fiber, total dietary: 10.7
+Fiber, total dietary: 10.6
+Fiber, total dietary: 11.4
+Fiber, total dietary: 11.4
+
+
+Food: FLOUR, WHOLE WHEAT (UNENRICHED) (ORGANIC)
+Fiber, total dietary: 10.8
+Fiber, total dietary: 8.9
+
+
+Food: Farro, pearled, dry, raw
+Carbohydrate, by difference: 72.13156
+Protein: 12.63944
+Fiber, total dietary: 7.31
+Fiber, total dietary: 9.14
+Fiber, total dietary: 6.29
+Fiber, total dietary: 8.19
+Fiber, total dietary: 5.68
+Fiber, total dietary: 8.47
+Fiber, total dietary: 8.3
+Fiber, total dietary: 6.5
+Fiber, total dietary: 5.91
+
+
+Food: Fennel, bulb, raw
+Carbohydrate, by difference: 5.486225
+Protein: 0.921875
+Fiber, total dietary: 2.046
+Fiber, total dietary: 1.86
+Fiber, total dietary: 2.19
+Fiber, total dietary: 2.39
+Fiber, total dietary: 2.01
+Fiber, total dietary: 1.86
+Fiber, total dietary: 2.23
+Fiber, total dietary: 1.95
+Fiber, total dietary: 1.88
+
+
+Food: Figs, dried, uncooked
+Carbohydrate, by difference: 63.9
+Energy: 1040.0
+Energy: 249.0
+Protein: 3.3
+Fiber, total dietary: 9.8
+Fiber, total dietary: 9.8
+Carbohydrate, by difference: 63.9
+Energy: 249.0
+Energy: 1040.0
+Protein: 3.3
+
+
+Food: Fish, catfish, farm raised, raw
+Carbohydrate, by difference: 0.0
+Protein: 16.46875
+
+
+Food: Fish, cod, Atlantic, wild caught, raw
+Carbohydrate, by difference: 0.0
+Protein: 16.06875
+
+
+Food: Fish, haddock, raw
+Carbohydrate, by difference: 0.0
+Energy: 74.0
+Protein: 16.3
+Energy: 308.0
+
+
+Food: Fish, pollock, raw
+Energy: 56.0
+Carbohydrate, by difference: 0.0
+Energy: 235.0
+Protein: 12.3
+
+
+Food: Fish, salmon, Atlantic, farm raised, raw
+Carbohydrate, by difference: 0.0
+Protein: 20.31875
+
+
+Food: Fish, salmon, sockeye, wild caught, raw
+Carbohydrate, by difference: 0.0
+Protein: 22.3
+
+
+Food: Fish, tilapia, farm raised, raw
+Carbohydrate, by difference: 0.0
+Protein: 19.0
+
+
+Food: Fish, tuna, light, canned in water, drained solids
+Carbohydrate, by difference: 0.08
+Protein: 19.0
+Energy: 376.0
+Energy: 90.0
+
+
+Food: Flaxseed, ground
+Carbohydrate, by difference: 34.3551
+Protein: 18.0359
+Fiber, total dietary: 23.13
+
+
+Food: Flour, 00
+Carbohydrate, by difference: 74.4462
+Protein: 11.4
+Fiber, total dietary: 2.656
+
+
+Food: Flour, Semolina, Coarse
+Fiber, total dietary: 4.04
+Fiber, total dietary: 2.9
+Fiber, total dietary: 2.5
+
+
+Food: Flour, Semolina, Semi-Coarse
+Fiber, total dietary: 3.685
+Fiber, total dietary: 3.22
+Fiber, total dietary: 2.95
+
+
+Food: Flour, almond
+Carbohydrate, by difference: 16.24925
+Protein: 26.24375
+Fiber, total dietary: 9.266
+
+
+Food: Flour, almond, blanched
+Fiber, total dietary: 7.69
+Fiber, total dietary: 9.485
+Fiber, total dietary: 9.17
+Fiber, total dietary: 9.08
+Fiber, total dietary: 8.33
+Fiber, total dietary: 8.71
+Fiber, total dietary: 12.1
+Fiber, total dietary: 9.56
+
+
+Food: Flour, amaranth
+Carbohydrate, by difference: 68.7787
+Protein: 13.2093
+Fiber, total dietary: 7.209
+
+
+Food: Flour, barley
+Carbohydrate, by difference: 77.39832
+Protein: 8.72168
+Fiber, total dietary: 12.79
+
+
+Food: Flour, bread, white, enriched, unbleached
+Protein: 14.3
+Energy: 1520.0
+Energy: 363.0
+Carbohydrate, by difference: 72.8
+
+
+Food: Flour, buckwheat
+Carbohydrate, by difference: 75.01808
+Protein: 8.88492
+Fiber, total dietary: 10.35
+
+
+Food: Flour, cassava
+Carbohydrate, by difference: 87.312975
+Protein: 0.918225
+Fiber, total dietary: 4.834
+
+
+Food: Flour, chestnut
+Fiber, total dietary: 8.711
+Protein: 5.28675
+Carbohydrate, by difference: 80.45025
+
+
+Food: Flour, coconut
+Fiber, total dietary: 34.24
+Protein: 16.1385
+Carbohydrate, by difference: 58.9025
+
+
+Food: Flour, corn, yellow, fine meal, enriched
+Fiber, total dietary: 4.3
+Protein: 6.2
+Energy: 1520.0
+Energy: 364.0
+Carbohydrate, by difference: 80.8
+
+
+Food: Flour, oat, whole grain
+Carbohydrate, by difference: 69.91725
+Protein: 13.16875
+Fiber, total dietary: 10.5
+
+
+Food: Flour, pastry, unenriched, unbleached
+Energy: 1500.0
+Energy: 358.0
+Protein: 8.75
+Carbohydrate, by difference: 77.2
+
+
+Food: Flour, potato
+Carbohydrate, by difference: 79.9422
+Protein: 8.1125
+Fiber, total dietary: 5.401
+Fiber, total dietary: 6.56
+Fiber, total dietary: 6.685
+Fiber, total dietary: 6.5
+Fiber, total dietary: 6.93
+Fiber, total dietary: 5.675
+Fiber, total dietary: 0.0
+Fiber, total dietary: 6.2
+Fiber, total dietary: 4.655
+
+
+Food: Flour, quinoa
+Carbohydrate, by difference: 69.52465
+Protein: 11.92235
+Fiber, total dietary: 6.295
+
+
+Food: Flour, rice, brown
+Carbohydrate, by difference: 75.5
+Protein: 7.19
+Energy: 365.25
+Energy: 1582.206
+
+
+Food: Flour, rice, glutinous
+Protein: 6.69
+Energy: 1500.0
+Energy: 358.0
+Carbohydrate, by difference: 80.1
+
+
+Food: Flour, rice, white, unenriched
+Carbohydrate, by difference: 79.8
+Fiber, total dietary: 0.5
+Energy: 359.0
+Energy: 1500.0
+Protein: 6.94
+
+
+Food: Flour, rye
+Carbohydrate, by difference: 77.1618
+Protein: 8.3952
+Fiber, total dietary: 13.68
+
+
+Food: Flour, semolina, coarse and semi-coarse
+Carbohydrate, by difference: 73.82345
+Protein: 11.73125
+Fiber, total dietary: 3.216
+
+
+Food: Flour, semolina, fine
+Carbohydrate, by difference: 71.98575
+Protein: 13.33125
+Fiber, total dietary: 3.683
+
+
+Food: Flour, sorghum
+Carbohydrate, by difference: 77.39123
+Protein: 8.27277
+Fiber, total dietary: 6.019
+
+
+Food: Flour, soy, defatted
+Carbohydrate, by difference: 32.9
+Energy: 366.0
+Energy: 1530.0
+Protein: 51.1
+
+
+Food: Flour, soy, full-fat
+Energy: 1890.0
+Carbohydrate, by difference: 27.9
+Energy: 452.0
+Protein: 38.6
+
+
+Food: Flour, spelt, whole grain
+Carbohydrate, by difference: 70.723
+Protein: 14.475
+Fiber, total dietary: 9.339
+
+
+Food: Flour, wheat, all-purpose, enriched, bleached
+Carbohydrate, by difference: 77.3
+Energy: 366.0
+Protein: 10.9
+Energy: 1530.0
+
+
+Food: Flour, wheat, all-purpose, enriched, unbleached
+Protein: 13.1
+Carbohydrate, by difference: 73.2
+Energy: 358.0
+Energy: 1500.0
+
+
+Food: Flour, wheat, all-purpose, unenriched, unbleached
+Energy: 362.0
+Energy: 1510.0
+Fiber, total dietary: 3.0
+Protein: 12.0
+Carbohydrate, by difference: 74.6
+
+
+Food: Flour, whole grain oat
+Fiber, total dietary: 8.945
+Fiber, total dietary: 9.54
+Fiber, total dietary: 8.87
+Fiber, total dietary: 9.55
+Fiber, total dietary: 9.79
+Fiber, total dietary: 8.75
+Fiber, total dietary: 18.6
+Fiber, total dietary: 9.96
+
+
+Food: Flour, whole wheat, unenriched
+Energy: 370.0
+Carbohydrate, by difference: 71.2
+Fiber, total dietary: 10.6
+Energy: 1550.0
+Protein: 15.1
+
+
+Food: Fonio, grain, dry, raw
+Carbohydrate, by difference: 81.30525
+Protein: 7.16875
+Fiber, total dietary: 2.197
+Fiber, total dietary: 2.34
+Fiber, total dietary: 2.17
+Fiber, total dietary: 2.47
+Fiber, total dietary: 1.79
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.85
+Fiber, total dietary: 1.46
+
+
+Food: Frankfurter, beef, unheated
+Protein: 11.7
+Energy: 1310.0
+Energy: 314.0
+Carbohydrate, by difference: 2.89
+
+
+Food: GARLIC
+Fiber, total dietary: 3.4
+Fiber, total dietary: 3.0
+Fiber, total dietary: 2.4
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.7
+Fiber, total dietary: 2.6
+
+
+Food: Garlic, raw
+Protein: 6.62
+Energy: 597.0
+Energy: 143.0
+Fiber, total dietary: 2.7
+Carbohydrate, by difference: 28.2
+
+
+Food: Grape juice, purple, with added vitamin C, from concentrate, shelf stable
+Carbohydrate, by difference: 15.6227875
+Protein: 0.2578125
+
+
+Food: Grape juice, white, with added vitamin C, from concentrate, shelf stable
+Carbohydrate, by difference: 15.84375
+Protein: 0.09375
+
+
+Food: Grapefruit juice, red, not fortified, not from concentrate, refrigerated
+Carbohydrate, by difference: 9.1021875
+Protein: 0.5703125
+
+
+Food: Grapefruit juice, white, canned or bottled, unsweetened
+Energy: 157.0
+Carbohydrate, by difference: 7.59
+Fiber, total dietary: 0.2
+Protein: 0.55
+Energy: 37.0
+
+
+Food: Grapefruit juice, white, shelf stable - NFY1213TS
+Fiber, total dietary: 0.5
+
+
+Food: Grapefruit juice, white, shelf stable - NFY1213UF
+Fiber, total dietary: 0.0
+
+
+Food: Grapefruit, raw
+Fiber, total dietary: 0.6525
+Fiber, total dietary: 0.45
+Fiber, total dietary: 0.5
+Fiber, total dietary: 1.11
+Fiber, total dietary: 0.55
+
+
+Food: Grapes, green, seedless, raw
+Carbohydrate, by difference: 18.60375
+Protein: 0.89875
+Carbohydrate, by difference: 18.60375
+Protein: 0.89875
+
+
+Food: Grapes, red, seedless, raw
+Carbohydrate, by difference: 20.196825
+Protein: 0.914375
+Carbohydrate, by difference: 20.196825
+Protein: 0.914375
+
+
+Food: Green beans, raw
+Fiber, total dietary: 2.83
+Fiber, total dietary: 2.59
+Fiber, total dietary: 2.94
+Fiber, total dietary: 3.12
+Fiber, total dietary: 2.39
+Fiber, total dietary: 5.05
+Fiber, total dietary: 2.5
+Fiber, total dietary: 2.67
+
+
+Food: Green onion, (scallion), bulb and greens, root removed, raw
+Fiber, total dietary: 2.3
+Protein: 0.66875
+Fiber, total dietary: 2.1
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.6
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.2
+Fiber, total dietary: 2.0
+Fiber, total dietary: 2.3
+Fiber, total dietary: 3.0
+
+
+Food: Halibut, frozen, wild caught
+Protein: 19.0625
+Carbohydrate, by difference: -0.0602
+
+
+Food: Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+Energy: 106.0
+Protein: 16.7
+Carbohydrate, by difference: 0.27
+Energy: 443.0
+
+
+Food: Ham, sliced, restaurant
+Energy: 121.0
+Carbohydrate, by difference: 2.36
+Protein: 19.6
+Energy: 507.0
+
+
+Food: Hummus - NFY1213ZX
+Fiber, total dietary: 5.5
+
+
+Food: Hummus - NFY12140Q
+Fiber, total dietary: 5.7
+
+
+Food: Hummus - NFY12141F
+Fiber, total dietary: 5.4
+
+
+Food: Hummus - NFY12141Z
+Fiber, total dietary: 5.5
+
+
+Food: Hummus - NFY12142O
+Fiber, total dietary: 4.9
+
+
+Food: Hummus - NFY12143E
+Fiber, total dietary: 5.7
+
+
+Food: Hummus, commercial
+Energy: 229.0
+Fiber, total dietary: 5.4
+Protein: 7.35
+Energy: 960.0
+Carbohydrate, by difference: 14.9
+
+
+Food: Juice, pomegranate, from concentrate, shelf-stable
+Protein: 0.0
+
+
+Food: Juice, prune, shelf-stable
+Protein: 0.422625
+
+
+Food: Juice, tart cherry, from concentrate, shelf-stable
+Protein: 0.1465625
+
+
+Food: Kale - NFY1212D0
+Fiber, total dietary: 4.2
+
+
+Food: Kale - NFY1212DX
+Fiber, total dietary: 4.0
+
+
+Food: Kale, frozen, cooked, boiled, drained, without salt
+Carbohydrate, by difference: 5.3
+Energy: 151.0
+Protein: 2.94
+Energy: 36.0
+
+
+Food: Kale, raw
+Protein: 2.92
+Fiber, total dietary: 4.1
+Carbohydrate, by difference: 4.42
+Energy: 35.0
+Energy: 148.0
+
+
+Food: Ketchup, restaurant
+Carbohydrate, by difference: 26.8
+Protein: 1.11
+Energy: 117.0
+Energy: 488.0
+
+
+Food: Khorasan, grain, dry, raw
+Carbohydrate, by difference: 71.79427
+Protein: 14.75573
+Fiber, total dietary: 10.52
+
+
+Food: Khorasan, grain, wheat berry, dry, raw
+Fiber, total dietary: 10.66
+Fiber, total dietary: 10.07
+Fiber, total dietary: 10.46
+Fiber, total dietary: 11.48
+Fiber, total dietary: 9.36
+Fiber, total dietary: 10.26
+Fiber, total dietary: 11.15
+Fiber, total dietary: 10.72
+
+
+Food: Kiwi, Region 1, n/a, Yes, Fiber  - NFY0100RH
+Fiber, total dietary: 2.5
+
+
+Food: Kiwi, Region 2, n/a, Yes, Fiber  - NFY0100SD
+Fiber, total dietary: 3.5
+
+
+Food: Kiwi, Region 3, n/a, Yes, Fiber  - NFY0100TB
+Fiber, total dietary: 2.4
+
+
+Food: Kiwi, Region 4, n/a, Yes, Fiber  - NFY0100U9
+Fiber, total dietary: 3.8
+
+
+Food: Kiwifruit (kiwi), green, peeled, raw
+Carbohydrate, by difference: 13.818075
+Protein: 1.008125
+Fiber, total dietary: 2.129
+Fiber, total dietary: 2.38
+Fiber, total dietary: 1.87
+Fiber, total dietary: 2.19
+Fiber, total dietary: 2.32
+Fiber, total dietary: 2.03
+Fiber, total dietary: 1.91
+Fiber, total dietary: 2.75
+Fiber, total dietary: 1.58
+
+
+Food: Kiwifruit, green, raw
+Carbohydrate, by difference: 14.0
+Energy: 241.0
+Protein: 1.06
+Fiber, total dietary: 3.0
+Energy: 58.0
+
+
+Food: Lamb, ground, raw
+Protein: 17.4625
+Carbohydrate, by difference: -0.2508
+
+
+Food: Leeks, bulb and greens, root removed, raw
+Fiber, total dietary: 3.0
+Protein: 1.4675
+Fiber, total dietary: 2.3
+Fiber, total dietary: 3.5
+Fiber, total dietary: 3.6
+Fiber, total dietary: 2.6
+Fiber, total dietary: 2.9
+Fiber, total dietary: 3.4
+Fiber, total dietary: 2.5
+Fiber, total dietary: 3.0
+
+
+Food: Lentils, dry
+Protein: 23.56875
+Carbohydrate, by difference: 62.17125
+
+
+Food: Lettuce, cos or romaine, raw
+Carbohydrate, by difference: 3.24
+Energy: 17.0
+Fiber, total dietary: 1.8
+Energy: 70.0
+Protein: 1.24
+Protein: 1.24
+Fiber, total dietary: 1.8
+Carbohydrate, by difference: 3.24
+Energy: 17.0
+Energy: 70.0
+
+
+Food: Lettuce, iceberg, raw
+Protein: 0.7425
+Carbohydrate, by difference: 3.36875
+
+
+Food: Lettuce, leaf, green, raw
+Protein: 1.09375
+Carbohydrate, by difference: 4.06615
+
+
+Food: Lettuce, leaf, red, raw
+Protein: 0.883125
+Carbohydrate, by difference: 3.260575
+
+
+Food: Lettuce, romaine, green, raw
+Protein: 0.976875
+Carbohydrate, by difference: 4.055575
+
+
+Food: Lobster, tail only, frozen, wild caught
+Protein: 12.99375
+Carbohydrate, by difference: 0.88555
+
+
+Food: MUSHROOMS, LION'S MANE
+Fiber, total dietary: 2.41
+Fiber, total dietary: 6.65
+Fiber, total dietary: 3.19
+Fiber, total dietary: 3.23
+Fiber, total dietary: 6.05
+Fiber, total dietary: 5.01
+Fiber, total dietary: 3.21
+Fiber, total dietary: 5.26
+
+
+Food: MUSHROOMS, OYSTER
+Fiber, total dietary: 3.06
+Fiber, total dietary: 1.22
+Fiber, total dietary: 4.56
+Fiber, total dietary: 3.76
+Fiber, total dietary: 2.34
+Fiber, total dietary: 2.63
+Fiber, total dietary: 2.7
+Fiber, total dietary: 2.53
+
+
+Food: MUSHROOMS, SHIITAKE
+Fiber, total dietary: 6.24
+Fiber, total dietary: 2.7
+Fiber, total dietary: 3.26
+Fiber, total dietary: 5.1
+Fiber, total dietary: 3.09
+Fiber, total dietary: 3.96
+Fiber, total dietary: 4.41
+Fiber, total dietary: 4.57
+
+
+Food: MUSHROOMS, WHITE BUTTON
+Fiber, total dietary: 1.65
+Fiber, total dietary: 1.78
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.77
+Fiber, total dietary: 1.72
+Fiber, total dietary: 1.58
+
+
+Food: Mahi mahi, frozen, wild caught
+Protein: 19.79375
+Carbohydrate, by difference: 0.28655
+
+
+Food: Mandarin, seedless, peeled, raw
+Carbohydrate, by difference: 13.421825
+Protein: 1.039375
+Fiber, total dietary: 1.328
+Fiber, total dietary: 1.48
+Fiber, total dietary: 1.92
+Fiber, total dietary: 0.94
+Fiber, total dietary: 1.29
+Fiber, total dietary: 1.51
+Fiber, total dietary: 1.65
+Fiber, total dietary: 0.6
+Fiber, total dietary: 1.23
+
+
+Food: Mango, Ataulfo, peeled, pit removed, raw
+Fiber, total dietary: 1.39
+Fiber, total dietary: 0.93
+Fiber, total dietary: 1.61
+Fiber, total dietary: 1.0
+Fiber, total dietary: 1.58
+Fiber, total dietary: 1.7
+Fiber, total dietary: 0.79
+Fiber, total dietary: 1.31
+
+
+Food: Mango, Ataulfo, peeled, raw
+Carbohydrate, by difference: 17.3962
+Protein: 0.6875
+Fiber, total dietary: 1.289
+
+
+Food: Mango, Tommy Atkins, peeled, pit removed, raw
+Fiber, total dietary: 1.18
+Fiber, total dietary: 1.94
+Fiber, total dietary: 2.13
+Fiber, total dietary: 1.43
+Fiber, total dietary: 1.13
+Fiber, total dietary: 2.06
+Fiber, total dietary: 2.23
+Fiber, total dietary: 1.92
+
+
+Food: Mango, Tommy Atkins, peeled, raw
+Carbohydrate, by difference: 15.265
+Protein: 0.5625
+Fiber, total dietary: 1.753
+
+
+Food: Melons, cantaloupe, raw
+Energy: 141.0
+Protein: 0.82
+Energy: 34.0
+Carbohydrate, by difference: 8.16
+Fiber, total dietary: 0.8
+Protein: 0.82
+Fiber, total dietary: 0.8
+Energy: 34.0
+Energy: 141.0
+Carbohydrate, by difference: 8.16
+
+
+Food: Melons, honeydew, raw
+Carbohydrate, by difference: 8.14995
+Protein: 0.53125
+
+
+Food: Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D
+Energy: 179.0
+Protein: 3.38
+Energy: 43.0
+Carbohydrate, by difference: 5.19
+Energy: 43.0
+Protein: 3.38
+Carbohydrate, by difference: 5.18
+Energy: 179.0
+
+
+Food: Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+Protein: 3.43
+Energy: 143.0
+Carbohydrate, by difference: 4.89
+Energy: 34.0
+Carbohydrate, by difference: 4.92
+Energy: 34.0
+Energy: 144.0
+Protein: 3.43
+
+
+Food: Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D
+Carbohydrate, by difference: 4.91
+Protein: 3.35
+Energy: 50.0
+Energy: 209.0
+Energy: 209.0
+Protein: 3.36
+Carbohydrate, by difference: 4.9
+Energy: 50.0
+
+
+Food: Milk, whole, 3.25% milkfat, with added vitamin D
+Protein: 3.28
+Energy: 60.0
+Energy: 252.0
+Carbohydrate, by difference: 4.67
+Energy: 251.0
+Protein: 3.27
+Energy: 60.0
+Carbohydrate, by difference: 4.63
+
+
+Food: Millet, whole grain
+Carbohydrate, by difference: 74.44623
+Protein: 10.02177
+Fiber, total dietary: 2.619
+
+
+Food: Mushroom, beech
+Fiber, total dietary: 3.139
+Carbohydrate, by difference: 6.7593
+Protein: 2.18
+
+
+Food: Mushroom, crimini
+Fiber, total dietary: 1.781
+Carbohydrate, by difference: 4.01455
+Protein: 3.09375
+
+
+Food: Mushroom, enoki
+Fiber, total dietary: 2.945
+Carbohydrate, by difference: 8.141425
+Protein: 2.416875
+
+
+Food: Mushroom, king oyster
+Fiber, total dietary: 3.009
+Carbohydrate, by difference: 8.50065
+Protein: 2.40625
+
+
+Food: Mushroom, lion's mane
+Carbohydrate, by difference: 7.5897
+Protein: 2.5
+Fiber, total dietary: 4.376
+Carbohydrate, by difference: 7.5897
+Protein: 2.5
+
+
+Food: Mushroom, maitake
+Fiber, total dietary: 3.071
+Carbohydrate, by difference: 6.604375
+Protein: 2.203125
+
+
+Food: Mushroom, oyster
+Carbohydrate, by difference: 6.94125
+Protein: 2.89875
+Fiber, total dietary: 2.85
+Carbohydrate, by difference: 6.94125
+Protein: 2.89875
+
+
+Food: Mushroom, pioppini
+Fiber, total dietary: 2.753
+Carbohydrate, by difference: 5.7637
+Protein: 3.5
+
+
+Food: Mushroom, portabella
+Fiber, total dietary: 1.879
+Carbohydrate, by difference: 4.6583
+Protein: 2.75
+
+
+Food: Mushrooms, shiitake
+Carbohydrate, by difference: 8.170625
+Protein: 2.414375
+Fiber, total dietary: 4.166
+Carbohydrate, by difference: 8.170625
+Protein: 2.414375
+
+
+Food: Mushrooms, white button
+Carbohydrate, by difference: 4.079375
+Protein: 2.890625
+Fiber, total dietary: 1.717
+Carbohydrate, by difference: 4.079375
+Protein: 2.890625
+
+
+Food: Mustard, prepared, yellow
+Carbohydrate, by difference: 5.3
+Protein: 4.25
+Energy: 254.0
+Energy: 61.0
+Fiber, total dietary: 4.3
+
+
+Food: Nectarines, raw
+Fiber, total dietary: 1.5
+Protein: 1.06
+Carbohydrate, by difference: 9.18
+Energy: 39.0
+Energy: 163.0
+
+
+Food: Nuts, almonds, dry roasted, with salt added
+Carbohydrate, by difference: 16.2
+Energy: 620.0
+Fiber, total dietary: 11.0
+Protein: 20.4
+Energy: 2590.0
+
+
+Food: Nuts, almonds, raw, whole
+Fiber, total dietary: 11.5
+Fiber, total dietary: 10.7
+Fiber, total dietary: 10.0
+Fiber, total dietary: 10.1
+Fiber, total dietary: 10.25
+Fiber, total dietary: 11.5
+Fiber, total dietary: 10.6
+Fiber, total dietary: 11.6
+
+
+Food: Nuts, almonds, whole, raw
+Carbohydrate, by difference: 20.03462
+Protein: 21.45038
+Fiber, total dietary: 10.78
+
+
+Food: Nuts, brazilnuts, raw
+Fiber, total dietary: 5.984
+Protein: 15.03684
+Carbohydrate, by difference: 21.64216
+
+
+Food: Nuts, cashew nuts, raw
+Fiber, total dietary: 4.104
+Protein: 17.4423
+Carbohydrate, by difference: 36.2887
+
+
+Food: Nuts, hazelnuts or filberts, raw
+Fiber, total dietary: 8.41
+Protein: 13.4938
+Carbohydrate, by difference: 26.5012
+
+
+Food: Nuts, macadamia nuts, raw
+Fiber, total dietary: 7.563
+Protein: 7.7857
+Carbohydrate, by difference: 24.0943
+
+
+Food: Nuts, pecans, halves, raw
+Carbohydrate, by difference: 12.6993
+Protein: 9.9587
+Fiber, total dietary: 5.793
+
+
+Food: Nuts, pecans, raw, halves
+Fiber, total dietary: 5.64
+Fiber, total dietary: 5.83
+Fiber, total dietary: 5.5
+Fiber, total dietary: 5.75
+Fiber, total dietary: 5.98
+Fiber, total dietary: 6.14
+Fiber, total dietary: 5.97
+Fiber, total dietary: 5.53
+
+
+Food: Nuts, pine nuts, raw
+Carbohydrate, by difference: 18.5921
+Protein: 15.7039
+Fiber, total dietary: 3.941
+Fiber, total dietary: 3.82
+Fiber, total dietary: 3.32
+Fiber, total dietary: 3.86
+Fiber, total dietary: 3.99
+Fiber, total dietary: 4.22
+Fiber, total dietary: 3.83
+Fiber, total dietary: 4.58
+Fiber, total dietary: 3.91
+
+
+Food: Nuts, pistachio nuts, raw
+Fiber, total dietary: 6.969
+Protein: 20.5057
+Carbohydrate, by difference: 27.6943
+
+
+Food: Nuts, walnuts, English, halves, raw
+Carbohydrate, by difference: 10.9096
+Protein: 14.5644
+Fiber, total dietary: 5.21
+
+
+Food: Nuts, walnuts, English, raw, halves
+Fiber, total dietary: 6.8
+Fiber, total dietary: 4.66
+Fiber, total dietary: 5.06
+Fiber, total dietary: 4.3
+Fiber, total dietary: 4.47
+Fiber, total dietary: 4.61
+Fiber, total dietary: 4.4
+Fiber, total dietary: 7.38
+
+
+Food: OATMEAL COOKIES WITH RAISINS, PEPPERIDGE FARM SOFT BAKED
+Fiber, total dietary: 3.5
+Fiber, total dietary: 3.8
+Fiber, total dietary: 3.2
+
+
+Food: OATMEAL COOKIES WITH RAISINS, STORE/OTHER BRAND
+Fiber, total dietary: 2.9
+Fiber, total dietary: 3.6
+Fiber, total dietary: 2.9
+
+
+Food: ONIONS, RED
+Fiber, total dietary: 2.3
+Protein: 1.12
+Fiber, total dietary: 2.4
+Protein: 1.15
+Fiber, total dietary: 2.4
+Protein: 0.96
+Fiber, total dietary: 2.2
+Protein: 0.81
+Fiber, total dietary: 2.1
+Protein: 0.72
+Fiber, total dietary: 2.1
+Protein: 0.89
+
+
+Food: ONIONS, WHITE
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.2
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.1
+Fiber, total dietary: 1.2
+Fiber, total dietary: 1.0
+
+
+Food: ONIONS, YELLOW
+Fiber, total dietary: 1.8
+Protein: 0.88
+Fiber, total dietary: 2.0
+Protein: 0.93
+Fiber, total dietary: 2.0
+Protein: 0.7
+Fiber, total dietary: 2.1
+Protein: 0.83
+Fiber, total dietary: 1.9
+Protein: 0.93
+Fiber, total dietary: 1.8
+Protein: 0.72
+
+
+Food: Oat milk, unsweetened, plain, refrigerated
+Carbohydrate, by difference: 5.100325
+Protein: 0.796875
+Fiber, total dietary: 0.0
+
+
+Food: Oats, whole grain, rolled, old fashioned
+Carbohydrate, by difference: 68.65755
+Protein: 13.49645
+
+
+Food: Oats, whole grain, steel cut
+Carbohydrate, by difference: 69.75082
+Protein: 12.51118
+
+
+Food: Oil, coconut
+Energy: 833.0
+Carbohydrate, by difference: 0.84
+Protein: 0.0
+Energy: 3480.0
+
+
+Food: Olives, green, Manzanilla, stuffed with pimiento
+Energy: 130.0
+Fiber, total dietary: 4.0
+Energy: 543.0
+Protein: 1.15
+Carbohydrate, by difference: 4.96
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213MN
+Fiber, total dietary: 3.6
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213NA
+Fiber, total dietary: 4.3
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213NV
+Fiber, total dietary: 4.2
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213OJ
+Fiber, total dietary: 3.6
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213P4
+Fiber, total dietary: 4.8
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213PR
+Fiber, total dietary: 4.6
+
+
+Food: Olives, green, stuffed with pimentos - NFY1213QE
+Fiber, total dietary: 2.9
+
+
+Food: Onion rings, breaded, par fried, frozen, prepared, heated in oven
+Fiber, total dietary: 2.4
+Energy: 1210.0
+Protein: 4.52
+Carbohydrate, by difference: 36.3
+Energy: 288.0
+
+
+Food: Onions, red, raw
+Energy: 44.0
+Fiber, total dietary: 2.2
+Carbohydrate, by difference: 9.93
+Energy: 186.0
+Protein: 0.94
+
+
+Food: Onions, white, raw
+Energy: 35.0
+Carbohydrate, by difference: 7.68
+Fiber, total dietary: 1.2
+Protein: 0.89
+Energy: 148.0
+
+
+Food: Onions, yellow, raw
+Fiber, total dietary: 1.9
+Protein: 0.83
+Energy: 160.0
+Energy: 38.0
+Carbohydrate, by difference: 8.61
+
+
+Food: Orange juice, no pulp, not fortified, from concentrate, refrigerated
+Carbohydrate, by difference: 10.340625
+Protein: 0.734375
+
+
+Food: Orange juice, no pulp, not fortified, not from concentrate, refrigerated
+Carbohydrate, by difference: 10.0124
+Protein: 0.8125
+
+
+Food: Oranges, Navel, Raw, Region 1, n/a, Yes, Fiber - NFY0103ZW
+Fiber, total dietary: 1.9
+
+
+Food: Oranges, Navel, Raw, Region 2, n/a, Yes, Fiber - NFY01040Y
+Fiber, total dietary: 2.1
+
+
+Food: Oranges, Navel, Raw, Region 3, n/a, Yes, Fiber - NFY01041V
+Fiber, total dietary: 2.0
+
+
+Food: Oranges, Navel, Raw, Region 4, n/a, Yes, Fiber - NFY01042V
+Fiber, total dietary: 2.0
+
+
+Food: Oranges, raw, navels
+Carbohydrate, by difference: 11.8
+Energy: 196.0
+Protein: 0.91
+Fiber, total dietary: 2.0
+Energy: 47.0
+
+
+Food: Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)
+Energy: 196.0
+Energy: 47.0
+Carbohydrate, by difference: 11.8
+Protein: 0.91
+Fiber, total dietary: 2.0
+
+
+Food: Parsnips, raw
+Carbohydrate, by difference: 19.292275
+Protein: 1.265625
+Fiber, total dietary: 5.351
+Fiber, total dietary: 6.21
+Fiber, total dietary: 5.24
+Fiber, total dietary: 5.79
+Fiber, total dietary: 5.26
+Fiber, total dietary: 5.39
+Fiber, total dietary: 4.81
+Fiber, total dietary: 5.05
+Fiber, total dietary: 5.06
+
+
+Food: Pawpaw, peeled, seeded, raw
+Fiber, total dietary: 3.3
+Protein: 1.151875
+
+
+Food: Peaches, yellow, raw
+Fiber, total dietary: 1.5
+Carbohydrate, by difference: 10.1
+Energy: 174.0
+Energy: 42.0
+Protein: 0.91
+
+
+Food: Peanut butter, Creamy
+Fiber, total dietary: 5.178
+Fiber, total dietary: 4.71
+Fiber, total dietary: 5.07
+Fiber, total dietary: 5.34
+Fiber, total dietary: 5.96
+Fiber, total dietary: 5.525
+Fiber, total dietary: 4.8
+Fiber, total dietary: 5.32
+Fiber, total dietary: 4.7
+
+
+Food: Peanut butter, creamy
+Carbohydrate, by difference: 22.70376
+Protein: 23.99124
+Fiber, total dietary: 6.323
+
+
+Food: Peanut butter, smooth style, with salt
+Energy: 2500.0
+Protein: 22.5
+Fiber, total dietary: 4.8
+Carbohydrate, by difference: 22.3
+Energy: 597.0
+
+
+Food: Peanuts, raw
+Fiber, total dietary: 8.014
+Protein: 23.205
+Carbohydrate, by difference: 26.498
+
+
+Food: Pear, Anjou, green, with skin, raw
+Carbohydrate, by difference: 14.7674
+Protein: 0.3125
+Fiber, total dietary: 2.636
+
+
+Food: Pear, Anjou, green, with skin, seeded, core removed, raw
+Fiber, total dietary: 2.61
+Fiber, total dietary: 2.37
+Fiber, total dietary: 3.13
+Fiber, total dietary: 2.69
+Fiber, total dietary: 2.44
+Fiber, total dietary: 3.05
+Fiber, total dietary: 2.59
+Fiber, total dietary: 2.21
+
+
+Food: Pears, Bartlett, Region 1, n/a, Yes, Fiber - NFY000095
+Fiber, total dietary: 3.1
+
+
+Food: Pears, Bartlett, Region 2, n/a, Yes, Fiber - NFY00009H
+Fiber, total dietary: 3.1
+
+
+Food: Pears, Bartlett, Region 3, n/a, Yes, Fiber - NFY00009T
+Fiber, total dietary: 3.5
+
+
+Food: Pears, Bartlett, Region 4, n/a, Yes, Fiber - NFY0000A5
+Fiber, total dietary: 3.7
+
+
+Food: Pears, Bosc, Region 1, n/a, Yes, Fiber - NFY0000BR
+Fiber, total dietary: 2.6
+
+
+Food: Pears, Bosc, Region 2, n/a, Yes, Fiber - NFY0000C3
+Fiber, total dietary: 3.5
+
+
+Food: Pears, Bosc, Region 3, n/a, Yes, Fiber - NFY0000CF
+Fiber, total dietary: 3.3
+
+
+Food: Pears, Bosc, Region 4, n/a, Yes, Fiber - NFY0000CR
+Fiber, total dietary: 2.8
+
+
+Food: Pears, Green Anjou, Region 1, n/a, Yes, Fiber - NFY0000H8
+Fiber, total dietary: 3.0
+
+
+Food: Pears, Green Anjou, Region 2, n/a, Yes, Fiber - NFY0000HK
+Fiber, total dietary: 3.7
+
+
+Food: Pears, Green Anjou, Region 3, n/a, Yes, Fiber - NFY0000HW
+Fiber, total dietary: 3.2
+
+
+Food: Pears, Green Anjou, Region 4, n/a, Yes, Fiber - NFY0000I8
+Fiber, total dietary: 3.0
+
+
+Food: Pears, raw, bartlett
+Energy: 238.0
+Fiber, total dietary: 3.1
+Protein: 0.38
+Energy: 57.0
+Carbohydrate, by difference: 15.1
+
+
+Food: Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)
+Fiber, total dietary: 3.1
+Energy: 57.0
+Energy: 238.0
+Carbohydrate, by difference: 15.1
+Protein: 0.38
+
+
+Food: Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed
+Protein: 4.734375
+Carbohydrate, by difference: 12.707625
+
+
+Food: Peppers, banana or Hungarian wax, seeded, raw
+Carbohydrate, by difference: 4.966175
+Protein: 0.723125
+Fiber, total dietary: 1.79
+Fiber, total dietary: 1.97
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.67
+Fiber, total dietary: 1.78
+Fiber, total dietary: 1.81
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.77
+
+
+Food: Peppers, bell, green, raw
+Carbohydrate, by difference: 4.7781
+Protein: 0.715
+Fiber, total dietary: 0.9419
+
+
+Food: Peppers, bell, orange, raw
+Carbohydrate, by difference: 6.703125
+Protein: 0.881875
+Fiber, total dietary: 0.9674
+
+
+Food: Peppers, bell, red, raw
+Carbohydrate, by difference: 6.653175
+Protein: 0.895625
+Fiber, total dietary: 1.158
+
+
+Food: Peppers, bell, yellow, raw
+Carbohydrate, by difference: 6.601725
+Protein: 0.819375
+Fiber, total dietary: 1.071
+
+
+Food: Peppers, jalapeno, seeded, raw
+Carbohydrate, by difference: 5.075675
+Protein: 0.621125
+Fiber, total dietary: 1.725
+Fiber, total dietary: 1.69
+Fiber, total dietary: 1.67
+Fiber, total dietary: 1.69
+Fiber, total dietary: 1.84
+Fiber, total dietary: 1.58
+Fiber, total dietary: 1.75
+Fiber, total dietary: 1.68
+Fiber, total dietary: 1.9
+
+
+Food: Peppers, poblano, seeded, raw
+Carbohydrate, by difference: 5.143175
+Protein: 1.425625
+Fiber, total dietary: 2.07
+Fiber, total dietary: 2.08
+Fiber, total dietary: 2.23
+Fiber, total dietary: 2.07
+Fiber, total dietary: 1.82
+Fiber, total dietary: 1.83
+Fiber, total dietary: 2.32
+Fiber, total dietary: 1.98
+Fiber, total dietary: 2.23
+
+
+Food: Peppers, serrano, seeded, raw
+Carbohydrate, by difference: 6.136275
+Protein: 0.855625
+Fiber, total dietary: 2.521
+Fiber, total dietary: 3.25
+Fiber, total dietary: 2.07
+Fiber, total dietary: 2.6
+Fiber, total dietary: 2.07
+Fiber, total dietary: 2.48
+Fiber, total dietary: 2.12
+Fiber, total dietary: 3.19
+Fiber, total dietary: 2.39
+
+
+Food: Pickles, cucumber, dill or kosher dill
+Protein: 0.48
+Fiber, total dietary: 1.0
+Energy: 12.0
+Energy: 50.0
+Carbohydrate, by difference: 1.99
+
+
+Food: Pineapple, raw
+Carbohydrate, by difference: 14.0914625
+Protein: 0.4609375
+Fiber, total dietary: 0.9346
+Fiber, total dietary: 0.972
+Fiber, total dietary: 0.891
+Fiber, total dietary: 0.865
+Fiber, total dietary: 1.0
+Fiber, total dietary: 0.925
+Fiber, total dietary: 0.895
+Fiber, total dietary: 0.919
+Fiber, total dietary: 1.01
+
+
+Food: Plantains, black, overripe, peeled, raw
+Fiber, total dietary: 1.52
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.6
+Fiber, total dietary: 2.19
+Fiber, total dietary: 1.67
+Fiber, total dietary: 1.97
+
+
+Food: Plantains, green, unripe, peeled, raw
+Fiber, total dietary: 2.29
+Fiber, total dietary: 2.65
+Fiber, total dietary: 2.31
+Fiber, total dietary: 2.57
+Fiber, total dietary: 2.76
+Fiber, total dietary: 2.6
+
+
+Food: Plantains, overripe, raw
+Carbohydrate, by difference: 29.191425
+Protein: 1.166875
+Fiber, total dietary: 1.792
+
+
+Food: Plantains, ripe, raw
+Carbohydrate, by difference: 30.95215
+Protein: 1.15625
+Fiber, total dietary: 2.125
+
+
+Food: Plantains, underripe, raw
+Carbohydrate, by difference: 33.587325
+Protein: 1.229375
+Fiber, total dietary: 2.53
+
+
+Food: Plantains, yellow, ripe, peeled, raw
+Fiber, total dietary: 1.98
+Fiber, total dietary: 1.76
+Fiber, total dietary: 2.38
+Fiber, total dietary: 1.88
+Fiber, total dietary: 2.59
+Fiber, total dietary: 2.16
+
+
+Food: Plum, black, with skin, pitted, raw
+Fiber, total dietary: 1.36
+Fiber, total dietary: 1.26
+Fiber, total dietary: 0.78
+Fiber, total dietary: 1.74
+Fiber, total dietary: 1.58
+Fiber, total dietary: 1.53
+Fiber, total dietary: 1.03
+Fiber, total dietary: 1.49
+
+
+Food: Plum, black, with skin, raw
+Carbohydrate, by difference: 13.455575
+Protein: 0.578125
+Fiber, total dietary: 1.346
+
+
+Food: Plums, dried (prunes), uncooked
+Fiber, total dietary: 6.251
+Fiber, total dietary: 5.05
+Fiber, total dietary: 7.45
+Fiber, total dietary: 5.7
+Fiber, total dietary: 6.805
+
+
+Food: Pork, belly, with skin, raw
+Protein: 15.2
+Carbohydrate, by difference: -0.705
+
+
+Food: Pork, chop, center cut, raw
+Protein: 22.8125
+Carbohydrate, by difference: -0.5625
+
+
+Food: Pork, cured, bacon, cooked, restaurant
+Energy: 2090.0
+Carbohydrate, by difference: 2.1
+Energy: 500.0
+Protein: 40.9
+
+
+Food: Pork, ground, raw
+Protein: 17.80625
+Carbohydrate, by difference: 0.0
+
+
+Food: Pork, loin, boneless, raw
+Carbohydrate, by difference: 0.0
+Protein: 21.11875
+
+
+Food: Pork, loin, tenderloin, boneless, raw
+Carbohydrate, by difference: 0.0
+Protein: 21.58125
+
+
+Food: Potatoes, gold, without skin, raw
+Carbohydrate, by difference: 15.9624
+Protein: 1.8125
+
+
+Food: Potatoes, red, without skin, raw
+Carbohydrate, by difference: 16.27
+Protein: 2.0625
+
+
+Food: Potatoes, russet, without skin, raw
+Carbohydrate, by difference: 17.77125
+Protein: 2.27375
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (AL1)
+Protein: 26.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CA1)
+Protein: 26.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CA2)
+Protein: 27.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CO1)
+Protein: 29.0
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (CT1)
+Protein: 26.0
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (FL1)
+Protein: 28.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (IN1)
+Protein: 27.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (MI1)
+Protein: 27.3
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (MO1)
+Protein: 26.9
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (NC1)
+Protein: 25.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, pan-broiled crumbles (NY1)
+Protein: 26.2
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (AL1) 
+Protein: 28.0
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (AL1,CA1,MI1) 
+Protein: 26.2
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA1) 
+Protein: 24.9
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA2) 
+Protein: 27.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CA2,NC1) 
+Protein: 26.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CO1) 
+Protein: 25.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CO1,CT1,IN1) 
+Protein: 25.7
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (CT1) 
+Protein: 26.1
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (FL1) 
+Protein: 25.9
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (FL1,MO1,NY1) 
+Protein: 27.0
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (IN1) 
+Protein: 25.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (MI1) 
+Protein: 28.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (MO1) 
+Protein: 23.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (NC1) 
+Protein: 25.3
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (NY1) 
+Protein: 23.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, patties, broiled (National) 
+Protein: 26.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (AL1) 
+Protein: 17.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (AL1,CA1,MI1) 
+Protein: 19.2
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA1) 
+Protein: 18.6
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA2) 
+Protein: 19.7
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CA2,NC1) 
+Protein: 18.9
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CO1) 
+Protein: 20.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CO1,CT1,IN1) 
+Protein: 18.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (CT1) 
+Protein: 17.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (FL1) 
+Protein: 20.1
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (FL1,MO1,NY1) 
+Protein: 18.0
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (IN1) 
+Protein: 18.4
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (MI1) 
+Protein: 18.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (MO1) 
+Protein: 17.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (NC1) 
+Protein: 18.5
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (NY1) 
+Protein: 18.8
+
+
+Food: Protein, ash,& moisture, Ground turkey, 93% lean, 7% fat, raw (National) 
+Protein: 18.8
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 1, upperchoice
+Protein: 21.7
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 12, upperchoice
+Protein: 23.1
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 13, upperchoice
+Protein: 23.5
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 14, lowerchoice
+Protein: 23.8
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 15, lowerchoice
+Protein: 23.7
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 19, upperchoice
+Protein: 23.0
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 2, upperchoice
+Protein: 22.2
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 20, lowerchoice
+Protein: 23.2
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 21, lowerchoice
+Protein: 23.9
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 24, upperchoice
+Protein: 22.3
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 25, upperchoice
+Protein: 21.9
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 26, lowerchoice
+Protein: 22.9
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 27, lowerchoice
+Protein: 22.0
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 3, lowerchoice
+Protein: 22.4
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 30, upperchoice
+Protein: 23.6
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 31, upperchoice
+Protein: 22.1
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 32, upperchoice
+Protein: 22.3
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 33, lowerchoice
+Protein: 22.7
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 34, lowerchoice
+Protein: 22.6
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 4, lowerchoice
+Protein: 22.4
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 6, upperchoice
+Protein: 23.5
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 7, upperchoice
+Protein: 22.7
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 8, lowerchoice
+Protein: 23.4
+
+
+Food: Proximates, Beef, Boneless Top Loin steak, lean only, raw, animal 9, lowerchoice
+Protein: 23.3
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 10, select
+Protein: 23.9
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 11, select
+Protein: 23.5
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 16, select
+Protein: 23.8
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 17, select
+Protein: 23.8
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 18, select
+Protein: 24.0
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 22, select
+Protein: 23.9
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 23, select
+Protein: 23.3
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 28, select
+Protein: 22.9
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 29, select
+Protein: 23.3
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 35, select
+Protein: 22.7
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 36, select
+Protein: 22.6
+
+
+Food: Proximates, Beef, Eye of Round roast/steak, lean only, raw, animal 5, select
+Protein: 23.4
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 10, select
+Protein: 23.5
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 11, select
+Protein: 22.9
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 16, select
+Protein: 23.5
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 17, select
+Protein: 23.1
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 18, select
+Protein: 23.8
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 22, select
+Protein: 23.6
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 23, select
+Protein: 22.4
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 28, select
+Protein: 22.4
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 29, select
+Protein: 22.3
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 35, select
+Protein: 22.0
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 36, select
+Protein: 21.0
+
+
+Food: Proximates, Beef, Porterhouse Steak, lean only, raw, animal 5, select
+Protein: 21.5
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 1, upperchoice
+Protein: 25.4
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 12, upperchoice
+Protein: 27.9
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 13, upperchoice
+Protein: 28.2
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 14, lowerchoice
+Protein: 27.9
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 15, lowerchoice
+Protein: 30.4
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 19, upperchoice
+Protein: 26.3
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 2, upperchoice
+Protein: 24.6
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 20, lowerchoice
+Protein: 26.7
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 21, lowerchoice
+Protein: 28.0
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 24, upperchoice
+Protein: 27.7
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 25, upperchoice
+Protein: 28.3
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 26, lowerchoice
+Protein: 29.9
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 27, lowerchoice
+Protein: 26.3
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 3, lowerchoice
+Protein: 26.4
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 30, upperchoice
+Protein: 27.0
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 31, upperchoice
+Protein: 27.0
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 32, upperchoice
+Protein: 25.4
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 33, lowerchoice
+Protein: 27.9
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 34, lowerchoice
+Protein: 26.0
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 4, lowerchoice
+Protein: 25.8
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 6, upperchoice
+Protein: 28.0
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 7, upperchoice
+Protein: 27.9
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 8, lowerchoice
+Protein: 28.5
+
+
+Food: Proximates, Beef, T-Bone Steak, lean only, cooked, animal 9, lowerchoice
+Protein: 28.6
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 10, select
+Protein: 29.1
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 11, select
+Protein: 28.8
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 16, select
+Protein: 29.1
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 17, select
+Protein: 26.5
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 18, select
+Protein: 28.9
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 22, select
+Protein: 27.8
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 23, select
+Protein: 27.0
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 28, select
+Protein: 27.8
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 29, select
+Protein: 27.8
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 35, select
+Protein: 26.5
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 36, select
+Protein: 26.9
+
+
+Food: Proximates, Beef, Tenderloin Roast, lean only, cooked, animal 5, select
+Protein: 25.6
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 10, select
+Protein: 24.9
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 11, select
+Protein: 23.8
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 16, select
+Protein: 24.2
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 17, select
+Protein: 23.8
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 18, select
+Protein: 24.9
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 22, select
+Protein: 23.6
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 23, select
+Protein: 23.2
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 28, select
+Protein: 22.7
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 29, select
+Protein: 23.9
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 35, select
+Protein: 22.8
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 36, select
+Protein: 22.2
+
+
+Food: Proximates, Beef, Top Round roast/steak, lean only, raw, animal 5, select
+Protein: 23.8
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (AL,CA1) - NFY120OP9
+Protein: 7.66
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (CA2,NC) - NFY120OPG
+Protein: 7.96
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (CO,CT) - NFY120OPV
+Protein: 7.92
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (FL,MO) - NFY120OQ2
+Protein: 8.24
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (IN,NY) - NFY120OOV
+Protein: 8.07
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, CHOBANI (MI,OK) - NFY120OQI
+Protein: 8.36
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (AL,CA1) - NFY120ON9
+Protein: 8.21
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (CA2,NC) - NFY120ONI
+Protein: 7.88
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (CO,CT) - NFY120OO0
+Protein: 7.95
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (FL,MO) - NFY120OO8
+Protein: 7.91
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (IN,NY) - NFY120OMR
+Protein: 8.27
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (MI,OK) - NFY120OOL
+Protein: 7.98
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (CA1,OK) - NFY120OQS
+Protein: 8.16
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (CA2,CO) - NFY120OS1
+Protein: 8.09
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (FL,CT) - NFY120PA7
+Protein: 8.32
+
+
+Food: Proximates, Yogurt, Greek, strawberry, non-fat, FAGE TOTAL (NY,NC) - NFY120ORF
+Protein: 8.06
+
+
+Food: Radicchio, raw
+Carbohydrate, by difference: 4.96125
+Protein: 1.30875
+Fiber, total dietary: 2.114
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.85
+Fiber, total dietary: 2.43
+Fiber, total dietary: 2.05
+Fiber, total dietary: 2.14
+Fiber, total dietary: 2.14
+Fiber, total dietary: 2.17
+Fiber, total dietary: 2.33
+
+
+Food: Radishes, red, raw
+Carbohydrate, by difference: 4.05682
+Protein: 0.65625
+Fiber, total dietary: 1.314
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.48
+Fiber, total dietary: 1.39
+Fiber, total dietary: 1.27
+Fiber, total dietary: 1.26
+Fiber, total dietary: 1.37
+Fiber, total dietary: 1.18
+Fiber, total dietary: 1.26
+
+
+Food: Raisins, dark, seedless
+Fiber, total dietary: 3.679
+Fiber, total dietary: 3.55
+Fiber, total dietary: 3.73
+Fiber, total dietary: 3.58
+Fiber, total dietary: 3.855
+
+
+Food: Raisins, golden, seedless
+Fiber, total dietary: 3.006
+Fiber, total dietary: 2.61
+Fiber, total dietary: 2.93
+Fiber, total dietary: 2.96
+Fiber, total dietary: 3.525
+
+
+Food: Raspberries, raw
+Carbohydrate, by difference: 12.904375
+Protein: 1.008125
+Carbohydrate, by difference: 12.904375
+Protein: 1.008125
+
+
+Food: Refried beans, canned (pinto)
+Fiber, total dietary: 3.868
+Fiber, total dietary: 3.17
+Fiber, total dietary: 3.39
+Fiber, total dietary: 4.42
+Fiber, total dietary: 3.57
+Fiber, total dietary: 3.69
+Fiber, total dietary: 4.97
+
+
+Food: Refried beans, canned, vegetarian
+Fiber, total dietary: 3.91
+Fiber, total dietary: 3.49
+Fiber, total dietary: 3.33
+Fiber, total dietary: 4.32
+Fiber, total dietary: 3.83
+Fiber, total dietary: 4.58
+
+
+Food: Restaurant, Chinese, fried rice, without meat
+Energy: 174.0
+Energy: 729.0
+Carbohydrate, by difference: 32.5
+Protein: 3.84
+
+
+Food: Restaurant, Chinese, sweet and sour pork
+Carbohydrate, by difference: 25.5
+Energy: 260.0
+Fiber, total dietary: 1.0
+Protein: 8.88
+Energy: 1090.0
+Energy: 260.0
+Carbohydrate, by difference: 25.5
+Fiber, total dietary: 1.0
+Protein: 8.88
+Energy: 1090.0
+
+
+Food: Restaurant, Latino, pupusas con frijoles (pupusas, bean)
+Energy: 229.0
+Protein: 5.59
+Energy: 959.0
+Carbohydrate, by difference: 31.5
+Fiber, total dietary: 5.8
+
+
+Food: Restaurant, Latino, tamale, pork
+Carbohydrate, by difference: 15.8
+Energy: 728.0
+Protein: 7.38
+Fiber, total dietary: 2.4
+Energy: 174.0
+
+
+Food: Rhubarb, stalk, raw
+Fiber, total dietary: 1.428
+Fiber, total dietary: 0.81
+Fiber, total dietary: 2.24
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.26
+
+
+Food: Rice, black, unenriched, raw
+Carbohydrate, by difference: 77.18825
+Protein: 7.56875
+Fiber, total dietary: 4.179
+Fiber, total dietary: 4.8
+Fiber, total dietary: 4.5
+Fiber, total dietary: 4.34
+Fiber, total dietary: 3.9
+Fiber, total dietary: 4.49
+Fiber, total dietary: 4.05
+Fiber, total dietary: 3.63
+Fiber, total dietary: 3.72
+
+
+Food: Rice, brown, long grain, unenriched, raw
+Carbohydrate, by difference: 76.68795
+Protein: 7.25305
+Fiber, total dietary: 3.021
+
+
+Food: Rice, red, unenriched, dry, raw
+Carbohydrate, by difference: 76.1545
+Protein: 8.5625
+Fiber, total dietary: 4.198
+Fiber, total dietary: 4.24
+Fiber, total dietary: 3.7
+Fiber, total dietary: 3.25
+Fiber, total dietary: 4.95
+Fiber, total dietary: 4.72
+Fiber, total dietary: 4.58
+Fiber, total dietary: 3.96
+Fiber, total dietary: 4.18
+
+
+Food: Rice, white, long grain, unenriched, raw
+Carbohydrate, by difference: 80.31315
+Protein: 7.03885
+Fiber, total dietary: 0.1488
+
+
+Food: Romaine Lettuce, Pass 2, Region 1 - Fiber - NFY0105FR
+Fiber, total dietary: 1.7
+
+
+Food: Romaine Lettuce, Pass 2, Region 1 - Proximates - NFY0105FO
+Fiber, total dietary: 1.8
+
+
+Food: Romaine Lettuce, Pass 2, Region 2 - Fiber - NFY0105GN
+Fiber, total dietary: 1.7
+
+
+Food: Romaine Lettuce, Pass 2, Region 3 - Fiber - NFY0105HE
+Fiber, total dietary: 1.6
+
+
+Food: Romaine Lettuce, Region 1, n/a, Yes - Fiber - NFY0101QF
+Fiber, total dietary: 2.0
+
+
+Food: Romaine Lettuce, Region 2, n/a, Yes - Fiber - NFY0101RC
+Fiber, total dietary: 1.8
+
+
+Food: Romaine Lettuce, Region 3, n/a, Yes - Fiber - NFY0101SC
+Fiber, total dietary: 1.8
+
+
+Food: Romaine Lettuce, Region 4, n/a, Yes - Fiber - NFY0101TC
+Fiber, total dietary: 2.0
+
+
+Food: Rutabaga, peeled, raw
+Fiber, total dietary: 2.9
+Protein: 0.8875
+Fiber, total dietary: 2.5
+Fiber, total dietary: 2.6
+Fiber, total dietary: 3.0
+Fiber, total dietary: 3.6
+Fiber, total dietary: 3.0
+Fiber, total dietary: 2.9
+Fiber, total dietary: 2.9
+Fiber, total dietary: 3.0
+
+
+Food: SOY MILK, UNSWEETENED, PLAIN, SHELF STABLE
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: SPINACH, BABY
+Fiber, total dietary: 1.25
+Fiber, total dietary: 1.2
+Fiber, total dietary: 1.23
+Fiber, total dietary: 1.57
+Fiber, total dietary: 1.71
+Fiber, total dietary: 1.43
+Fiber, total dietary: 1.94
+Fiber, total dietary: 2.13
+Fiber, total dietary: 1.25
+Fiber, total dietary: 1.2
+Fiber, total dietary: 1.23
+Fiber, total dietary: 1.57
+Fiber, total dietary: 1.71
+Fiber, total dietary: 1.43
+Fiber, total dietary: 1.94
+Fiber, total dietary: 2.13
+
+
+Food: SPINACH, REGULAR (MATURE)
+Fiber, total dietary: 1.49
+Fiber, total dietary: 1.455
+Fiber, total dietary: 1.59
+Fiber, total dietary: 1.83
+Fiber, total dietary: 1.6
+Fiber, total dietary: 1.38
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.63
+Fiber, total dietary: 1.49
+Fiber, total dietary: 1.455
+Fiber, total dietary: 1.59
+Fiber, total dietary: 1.83
+Fiber, total dietary: 1.6
+Fiber, total dietary: 1.38
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.63
+
+
+Food: Sauce, pasta, spaghetti/marinara, ready-to-serve
+Protein: 1.41
+Energy: 45.0
+Carbohydrate, by difference: 8.05
+Energy: 186.0
+Fiber, total dietary: 1.8
+
+
+Food: Sauce, salsa, ready-to-serve
+Energy: 29.0
+Fiber, total dietary: 1.8
+Energy: 122.0
+Carbohydrate, by difference: 6.74
+Protein: 1.44
+Carbohydrate, by difference: 6.74
+Protein: 1.44
+Energy: 122.0
+Fiber, total dietary: 1.8
+Energy: 29.0
+
+
+Food: Sausage, Italian, pork, mild, cooked, pan-fried
+Protein: 18.2
+Energy: 322.0
+Carbohydrate, by difference: 2.15
+Energy: 1350.0
+Carbohydrate, by difference: 2.15
+Energy: 322.0
+Protein: 18.2
+Energy: 1350.0
+
+
+Food: Sausage, breakfast sausage, beef, pre-cooked, unprepared
+Energy: 1370.0
+Protein: 13.3
+Energy: 328.0
+Carbohydrate, by difference: 3.37
+Protein: 13.3
+Energy: 328.0
+Carbohydrate, by difference: 3.37
+Energy: 1370.0
+
+
+Food: Sausage, pork, chorizo, link or ground, cooked, pan-fried
+Carbohydrate, by difference: 2.63
+Protein: 19.3
+Energy: 1450.0
+Energy: 346.0
+Energy: 346.0
+Carbohydrate, by difference: 2.63
+Protein: 19.3
+Energy: 1450.0
+
+
+Food: Sausage, turkey, breakfast links, mild, raw
+Energy: 169.0
+Protein: 16.7
+Carbohydrate, by difference: 0.93
+Energy: 706.0
+Energy: 706.0
+Carbohydrate, by difference: 0.93
+Energy: 169.0
+Protein: 16.7
+
+
+Food: Scallops, bay, Patagonian, frozen, wild caught
+Protein: 16.3875
+Carbohydrate, by difference: 2.2833
+
+
+Food: Scallops, sea, frozen, wild caught
+Protein: 13.5125
+Carbohydrate, by difference: 1.9662
+
+
+Food: Sea bass, Chilean, frozen, wild caught
+Protein: 14.925
+Carbohydrate, by difference: 0.1392
+
+
+Food: Seeds, pumpkin seeds (pepitas), raw
+Fiber, total dietary: 5.079
+Protein: 29.9079
+Carbohydrate, by difference: 18.6751
+
+
+Food: Seeds, sunflower seed kernels, dry roasted, with salt added
+Carbohydrate, by difference: 17.1
+Energy: 2560.0
+Energy: 612.0
+Fiber, total dietary: 10.3
+Protein: 21.0
+
+
+Food: Seeds, sunflower seed, kernel, raw
+Fiber, total dietary: 7.215
+Protein: 18.8733
+Carbohydrate, by difference: 24.5007
+
+
+Food: Sesame butter, creamy
+Carbohydrate, by difference: 14.179
+Protein: 19.7054
+Fiber, total dietary: 8.372
+
+
+Food: Shallots, bulb, peeled, root removed, raw
+Fiber, total dietary: 2.2
+Protein: 1.3775
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.1
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.5
+Fiber, total dietary: 2.2
+Fiber, total dietary: 2.0
+
+
+Food: Snapper, frozen, wild caught
+Protein: 20.6625
+Carbohydrate, by difference: 0.4413
+
+
+Food: Snow crab, legs only, frozen  
+Protein: 15.5375
+Carbohydrate, by difference: 1.1063
+
+
+Food: Sorghum bran, white, unenriched, dry, raw
+Carbohydrate, by difference: 68.69525
+Protein: 11.16875
+Fiber, total dietary: 34.95
+Fiber, total dietary: 36.12
+Fiber, total dietary: 30.21
+Fiber, total dietary: 32.98
+Fiber, total dietary: 40.44
+Fiber, total dietary: 32.34
+Fiber, total dietary: 33.11
+Fiber, total dietary: 30.42
+Fiber, total dietary: 43.94
+
+
+Food: Sorghum flour, white, pearled, unenriched, dry, raw
+Carbohydrate, by difference: 73.5065
+Protein: 10.2125
+Fiber, total dietary: 3.299
+Fiber, total dietary: 2.9
+Fiber, total dietary: 2.64
+Fiber, total dietary: 4.63
+Fiber, total dietary: 3.39
+Fiber, total dietary: 2.65
+Fiber, total dietary: 3.58
+Fiber, total dietary: 2.81
+Fiber, total dietary: 3.79
+
+
+Food: Sorghum grain, white, pearled, unenriched, dry, raw
+Carbohydrate, by difference: 74.872
+Protein: 10.25
+Fiber, total dietary: 3.916
+Fiber, total dietary: 3.98
+Fiber, total dietary: 3.61
+Fiber, total dietary: 4.79
+Fiber, total dietary: 3.93
+Fiber, total dietary: 4.42
+Fiber, total dietary: 4.83
+Fiber, total dietary: 3.13
+Fiber, total dietary: 2.64
+
+
+Food: Sorghum, whole grain, white, dry, raw
+Carbohydrate, by difference: 73.57375
+Protein: 10.08125
+Fiber, total dietary: 8.274
+Fiber, total dietary: 9.09
+Fiber, total dietary: 6.95
+Fiber, total dietary: 8.16
+Fiber, total dietary: 10.01
+Fiber, total dietary: 8.14
+Fiber, total dietary: 8.44
+Fiber, total dietary: 7.82
+Fiber, total dietary: 7.58
+
+
+Food: Soy milk, sweetened, plain, refrigerated
+Carbohydrate, by difference: 2.996125
+Protein: 2.776875
+Fiber, total dietary: 0.0
+
+
+Food: Soy milk, unsweetened, plain, shelf stable
+Carbohydrate, by difference: 1.293125
+Protein: 3.546875
+Fiber, total dietary: 0.0
+Carbohydrate, by difference: 1.293125
+Protein: 3.546875
+Fiber, total dietary: 0.0
+
+
+Food: Spinach, baby
+Carbohydrate, by difference: 2.406325
+Protein: 2.851875
+Fiber, total dietary: 1.558
+Carbohydrate, by difference: 2.406325
+Protein: 2.851875
+Fiber, total dietary: 1.558
+
+
+Food: Spinach, mature
+Carbohydrate, by difference: 2.64135
+Protein: 2.90625
+Fiber, total dietary: 1.588
+Carbohydrate, by difference: 2.64135
+Protein: 2.90625
+Fiber, total dietary: 1.588
+
+
+Food: Squash, acorn, raw
+Fiber, total dietary: 2.43
+Fiber, total dietary: 3.16
+Fiber, total dietary: 1.88
+Fiber, total dietary: 2.78
+Fiber, total dietary: 3.12
+Fiber, total dietary: 2.6
+Fiber, total dietary: 2.77
+Fiber, total dietary: 2.34
+
+
+Food: Squash, butternut, raw
+Fiber, total dietary: 2.51
+Fiber, total dietary: 1.88
+Fiber, total dietary: 1.51
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.04
+Fiber, total dietary: 1.99
+Fiber, total dietary: 1.88
+Fiber, total dietary: 2.06
+
+
+Food: Squash, pie pumpkin, peeled, seeded, raw
+Fiber, total dietary: 2.3
+Protein: 0.854375
+Fiber, total dietary: 2.8
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.4
+Fiber, total dietary: 2.3
+Fiber, total dietary: 2.4
+Fiber, total dietary: 1.8
+Fiber, total dietary: 2.5
+Fiber, total dietary: 2.5
+
+
+Food: Squash, spaghetti, peeled, seeded, raw
+Fiber, total dietary: 1.4
+Protein: 0.791875
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.6
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.5
+Fiber, total dietary: 1.5
+Fiber, total dietary: 1.1
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.2
+
+
+Food: Squash, summer, green, zucchini, includes skin, raw
+Carbohydrate, by difference: 3.27
+Fiber, total dietary: 0.7525
+Protein: 0.984375
+
+
+Food: Squash, summer, yellow, includes skin, raw
+Carbohydrate, by difference: 4.39
+Fiber, total dietary: 0.9563
+Protein: 0.890625
+
+
+Food: Squash, winter, acorn, raw
+Fiber, total dietary: 2.635
+Protein: 1.25
+Carbohydrate, by difference: 10.48
+
+
+Food: Squash, winter, butternut, raw
+Fiber, total dietary: 1.959
+Protein: 1.14875
+Carbohydrate, by difference: 10.50745
+
+
+Food: Squash, yellow, raw
+Fiber, total dietary: 1.17
+Fiber, total dietary: 0.99
+Fiber, total dietary: 0.71
+Fiber, total dietary: 0.75
+Fiber, total dietary: 1.0
+Fiber, total dietary: 0.89
+Fiber, total dietary: 1.0
+Fiber, total dietary: 1.14
+
+
+Food: Squash, zucchini, raw
+Fiber, total dietary: 0.66
+Fiber, total dietary: 0.61
+Fiber, total dietary: 0.96
+Fiber, total dietary: 0.76
+Fiber, total dietary: 0.85
+Fiber, total dietary: 0.74
+Fiber, total dietary: 0.7
+Fiber, total dietary: 0.74
+
+
+Food: Squid (calamari), frozen, tubes only
+Protein: 8.80625
+Carbohydrate, by difference: 0.93215
+
+
+Food: Strawberries, Fresh, Pass 2, Region 1, n/a, Yes - Fiber, NFY0108ZJ
+Fiber, total dietary: 2.1
+
+
+Food: Strawberries, Fresh, Pass 2, Region 2, n/a, Yes - Fiber, NFY01090E
+Fiber, total dietary: 2.0
+
+
+Food: Strawberries, Fresh, Pass 2, Region 3, n/a, Yes - Fiber, NFY010919
+Fiber, total dietary: 1.1
+
+
+Food: Strawberries, Fresh, Pass 2, Region 4, n/a, Yes - Fiber, NFY010924
+Fiber, total dietary: 1.8
+
+
+Food: Strawberries, raw
+Energy: 132.0
+Carbohydrate, by difference: 7.63
+Fiber, total dietary: 1.8
+Energy: 31.0
+Protein: 0.64
+Energy: 132.0
+Energy: 31.0
+Fiber, total dietary: 1.8
+Carbohydrate, by difference: 7.63
+Protein: 0.64
+Carbohydrate, by difference: 7.964375
+Protein: 0.640625
+Carbohydrate, by difference: 7.964375
+Protein: 0.640625
+
+
+Food: Sugars, granulated
+Energy: 385.0
+Carbohydrate, by difference: 99.6
+Energy: 1610.0
+Protein: 0.0
+Energy: 385.0
+Protein: 0.0
+Energy: 1610.0
+Carbohydrate, by difference: 99.6
+
+
+Food: Sunflower seeds, dry roasted, salted - NFY1213G2
+Fiber, total dietary: 11.0
+
+
+Food: Sunflower seeds, dry roasted, salted - NFY1213GS
+Fiber, total dietary: 9.6
+
+
+Food: Sunflower seeds, dry roasted, salted - NFY1213HJ
+Fiber, total dietary: 10.3
+
+
+Food: Sweet potatoes, orange flesh, without skin, raw
+Carbohydrate, by difference: 17.327875
+Protein: 1.578125
+
+
+Food: Swordfish, frozen, wild caught
+Protein: 19.2375
+Carbohydrate, by difference: 0.4495
+
+
+Food: TDF, Mustard, yellow, FRENCHS CLASSIC (AL,CA1) - NFY120HYQ
+Fiber, total dietary: 2.6
+
+
+Food: TDF, Mustard, yellow, FRENCHS CLASSIC (CO,CT) - NFY120HZI
+Fiber, total dietary: 4.5
+
+
+Food: TDF, Mustard, yellow, FRENCHS CLASSIC (MI,OK) - NFY120I08
+Fiber, total dietary: 6.6
+
+
+Food: TDF, Mustard, yellow, store brand, GREAT VALUE & GREAT VALUE (AL1,OK1) - NFY120I10
+Fiber, total dietary: 3.3
+
+
+Food: TDF, Mustard, yellow, store brand, KROGER & KROGER (IN1,MI1) - NFY120I28
+Fiber, total dietary: 3.6
+
+
+Food: TDF, Mustard, yellow, store brand, SAFEWAY & SAFEWAY (CA1,CO1) - NFY120I1O
+Fiber, total dietary: 5.2
+
+
+Food: TDF, Onion rings, frozen, ALEXIA (AL,OK) - NFY12066R
+Fiber, total dietary: 2.5
+
+
+Food: TDF, Onion rings, frozen, ALEXIA (CO,CT) - NFY12067M
+Fiber, total dietary: 2.6
+
+
+Food: TDF, Onion rings, frozen, ALEXIA (FL,MO) - NFY12068F
+Fiber, total dietary: 2.8
+
+
+Food: TDF, Onion rings, frozen, ORE-IDA (CA1,CT) - NFY120698
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Onion rings, frozen, ORE-IDA (FL,MO) - NFY1207BC
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Onion rings, frozen, ORE-IDA (NY,OK) - NFY1206AU
+Fiber, total dietary: 2.6
+
+
+Food: TDF, Onion rings, frozen, Store brand/other (CO,IN) - NFY1206A1
+Fiber, total dietary: 2.2
+
+
+Food: TDF, Peanut butter, creamy, JIF (AL,CA1) - NFY120C97
+Fiber, total dietary: 6.1
+
+
+Food: TDF, Peanut butter, creamy, JIF (CO,CT) - NFY120C9Y
+Fiber, total dietary: 5.2
+
+
+Food: TDF, Peanut butter, creamy, JIF (MI,OK) - NFY120CAR
+Fiber, total dietary: 4.7
+
+
+Food: TDF, Peanut butter, creamy, SKIPPY (AL,CA1) - NFY120C6V
+Fiber, total dietary: 3.8
+
+
+Food: TDF, Peanut butter, creamy, SKIPPY (CO,CT) - NFY120C7M
+Fiber, total dietary: 5.2
+
+
+Food: TDF, Peanut butter, creamy, SKIPPY (FL,MO) - NFY120C8F
+Fiber, total dietary: 5.0
+
+
+Food: TDF, Peanut butter, creamy, store brand/other brand, GREAT VALUE (AL,OK) - NFY120CBK
+Fiber, total dietary: 4.9
+
+
+Food: TDF, Peanut butter, creamy, store brand/other brand, KROGER (IN,MI) - NFY120CCC
+Fiber, total dietary: 4.8
+
+
+Food: TDF, Peanut butter, creamy, store brand/other brand, SAFEWAY KITCHENS & SHOP RITE (CO,CT) - NFY120CD3
+Fiber, total dietary: 3.6
+
+
+Food: TDF, Pickles, kosher dill, spears, CLAUSEN (AL,CA1) - NFY120HO0
+Fiber, total dietary: 1.1
+
+
+Food: TDF, Pickles, kosher dill, spears, CLAUSEN (CO,CT) - NFY120HOM
+Fiber, total dietary: 1.1
+
+
+Food: TDF, Pickles, kosher dill, spears, CLAUSEN (FL,MO) - NFY120HP8
+Fiber, total dietary: 1.3
+
+
+Food: TDF, Pickles, kosher dill, spears, VLASIC (AL,CA1) - NFY120HM0
+Fiber, total dietary: 0.9
+
+
+Food: TDF, Pickles, kosher dill, spears, VLASIC (CO,CT) - NFY120HMO
+Fiber, total dietary: 1.1
+
+
+Food: TDF, Pickles, kosher dill, spears, VLASIC (MI,OK) - NFY120HNC
+Fiber, total dietary: 1.0
+
+
+Food: TDF, Pickles, kosher dill, spears, store brand, GREAT VALUE & GREAT VALUE (AL1,OK1) - NFY120HQF
+Fiber, total dietary: 0.9
+
+
+Food: TDF, Pickles, kosher dill, spears, store brand, KROGER (IN1,MI1) - NFY120HQZ
+Fiber, total dietary: 0.8
+
+
+Food: TDF, Pickles, kosher dill, spears, store brand, SAFEWAY (CA1,CO1) - NFY120HPU
+Fiber, total dietary: 1.0
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (CA-AL,IL) - NFY0901VA
+Fiber, total dietary: 6.1
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (CA-LA) - NFY0901XQ
+Fiber, total dietary: 5.7
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (FL,CA-SB) - NFY0901WA
+Fiber, total dietary: 5.9
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (MD,NM) - NFY0901WQ
+Fiber, total dietary: 5.4
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (TX-HA,NV) - NFY0901XA
+Fiber, total dietary: 5.7
+
+
+Food: TDF, Pupusas, Bean, flat stuffed corn biscuit (TX-TR) - NFY0901VQ
+Fiber, total dietary: 5.8
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (AL,CA1) - NFY090KXH
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (CA2,NC) - NFY090KXV
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (CO,CT) - NFY090KYE
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (FL,MO) - NFY090KYN
+Fiber, total dietary: 1.7
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (IN,NY) - NFY090KWX
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Salsa, PACE CHUNKY, MEDIUM (MI,OK) - NFY090KZ1
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (AL,CA1) - NFY090KUO
+Fiber, total dietary: 2.0
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (CA2,NC) - NFY090KV2
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (CO,CT) - NFY090KVL
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (FL,MO) - NFY090KVU
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (IN,NY) - NFY090KU4
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Salsa, TOSTITOS CHUNKY, MEDIUM (MI,OK) - NFY090KW8
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (AL1,CA1) - NFY0904XC
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (CA2,NC) - NFY0904XL
+Fiber, total dietary: 2.0
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (CO2,CT1) - NFY0904QU
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (FL1,MO1) - NFY0904Y3
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (IN1,NY1) - NFY0904X3
+Fiber, total dietary: 1.7
+
+
+Food: TDF, Sauce, pasta, HUNTS original, canned spaghetti sauce (MI1,OK1) - NFY0904YC
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (AL1,CA1) - NFY0904TU
+Fiber, total dietary: 2.0
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (CA2,NC) - NFY0904U3
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (CO2,CT1) - NFY0904XU
+Fiber, total dietary: 2.0
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (FL1,MO1) - NFY0904UL
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (IN1,NY1) - NFY0904TL
+Fiber, total dietary: 1.7
+
+
+Food: TDF, Sauce, pasta, PREGO 100% Natural Italian, Traditional, bottled spaghetti sauce (MI1,OK1) - NFY0904UU
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (AL1,CA1) - NFY0904QC
+Fiber, total dietary: 1.9
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (CA2,NC) - NFY0904QL
+Fiber, total dietary: 1.6
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (CO2,CT1) - NFY0904UC
+Fiber, total dietary: 1.7
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (FL1,MO1) - NFY0904R3
+Fiber, total dietary: 1.6
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (IN1,NY1) - NFY0904Q3
+Fiber, total dietary: 1.6
+
+
+Food: TDF, Sauce, pasta, RAGU Old World, bottled spaghetti sauce (MI1,OK1) - NFY0904RC
+Fiber, total dietary: 1.7
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (CA1,VA) - NFY0903J5
+Fiber, total dietary: 1.1
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (CA2,NC1) - NFY0903JT
+Fiber, total dietary: 1.2
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (CO1,CT1) - NFY0903KF
+Fiber, total dietary: 1.3
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (IN1,NY1) - NFY0903IJ
+Fiber, total dietary: 1.0
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (MI1,VA3) - NFY0903LP
+Fiber, total dietary: 0.9
+
+
+Food: TDF, Sweet And Sour Pork, Chinese restaurant (VA2,WV) - NFY0903L3
+Fiber, total dietary: 0.5
+
+
+Food: TDF, Tamale, Pork (CA-AL,IL) - NFY09027W
+Fiber, total dietary: 2.6
+
+
+Food: TDF, Tamale, Pork (CA-LA,CA-SD) - NFY0902AR
+Fiber, total dietary: 2.1
+
+
+Food: TDF, Tamale, Pork (CA-SB) - NFY090292
+Fiber, total dietary: 2.9
+
+
+Food: TDF, Tamale, Pork (NM) - NFY09029L
+Fiber, total dietary: 2.4
+
+
+Food: TDF, Tamale, Pork (TX-HA,NV) - NFY0902A8
+Fiber, total dietary: 3.1
+
+
+Food: TDF, Tamale, Pork (TX-TR) - NFY09028F
+Fiber, total dietary: 1.5
+
+
+Food: TDF, White bread, PEPPERIDGE FARMS (CO1,CT1) - NFY0907N3
+Fiber, total dietary: 2.1
+
+
+Food: TDF, White bread, PEPPERIDGE FARMS (FL1,MO1) - NFY0907NN
+Fiber, total dietary: 2.3
+
+
+Food: TDF, White bread, PEPPERIDGE FARMS (NC1,NY1,MI1) - NFY0907OR
+Fiber, total dietary: 2.2
+
+
+Food: TDF, White bread, SARA LEE SOFT AND SMOOTH CLASSIC WHOLE (AL1,CA1) - NFY0907PV
+Fiber, total dietary: 4.0
+
+
+Food: TDF, White bread, SARA LEE SOFT AND SMOOTH CLASSIC WHOLE (IN1,MO1) - NFY0907PB
+Fiber, total dietary: 2.9
+
+
+Food: TDF, White bread, store brand, PUBLIX BREAD (FL1) - NFY0907HL
+Fiber, total dietary: 2.1
+
+
+Food: TDF, White bread, store brand, mixed composite (AL1,CA1) - NFY0907GL
+Fiber, total dietary: 1.8
+
+
+Food: TDF, White bread, store brand, mixed composite (CA2,NC) - NFY0907GX
+Fiber, total dietary: 2.4
+
+
+Food: TDF, White bread, store brand, mixed composite (CO2,CT1) - NFY0907H9
+Fiber, total dietary: 1.8
+
+
+Food: TDF, White bread, store brand, mixed composite (IN1,NY1) - NFY0907G9
+Fiber, total dietary: 1.7
+
+
+Food: TDF, White bread, store brand, mixed composite (MI1,OK1) - NFY0907HX
+Fiber, total dietary: 1.8
+
+
+Food: TDF, Whole wheat bread, NATURES OWN (AL,OK) - NFY1204OP
+Fiber, total dietary: 5.7
+
+
+Food: TDF, Whole wheat bread, NATURES OWN (FL,NC) - NFY1204QA
+Fiber, total dietary: 5.9
+
+
+Food: TDF, Whole wheat bread, NATURES OWN (IN,CT) - NFY1204PI
+Fiber, total dietary: 5.8
+
+
+Food: TDF, Whole wheat bread, STROEHMANN DUTCH COUNTY (NY) - NFY1204MC
+Fiber, total dietary: 5.2
+
+
+Food: TDF, Whole wheat bread, Store brand/other (AL,OK) - NFY1204R2
+Fiber, total dietary: 5.3
+
+
+Food: TDF, Whole wheat bread, Store brand/other (CA1,CO) - NFY1204RU
+Fiber, total dietary: 6.1
+
+
+Food: TDF, Whole wheat bread, Store brand/other (MI,NC) - NFY1204SM
+Fiber, total dietary: 8.3
+
+
+Food: TDF, Yogurt, Greek, strawberry, non-fat, CHOBANI (FL,MO) - NFY120OQ8
+Fiber, total dietary: 0.7
+
+
+Food: TDF, Yogurt, Greek, strawberry, non-fat, DANNON OIKOS (IN,NY) - NFY120OMW
+Fiber, total dietary: 0.4
+
+
+Food: TOMATOES, GRAPE
+Fiber, total dietary: 2.2
+Fiber, total dietary: 1.9
+Fiber, total dietary: 2.2
+
+
+Food: TOMATOES, ROMA
+Fiber, total dietary: 1.08
+Fiber, total dietary: 1.12
+Fiber, total dietary: 1.24
+Fiber, total dietary: 0.9
+Fiber, total dietary: 0.8
+Fiber, total dietary: 0.96
+Fiber, total dietary: 0.76
+Fiber, total dietary: 0.905
+Fiber, total dietary: 1.08
+Fiber, total dietary: 1.12
+Fiber, total dietary: 1.24
+Fiber, total dietary: 0.9
+Fiber, total dietary: 0.8
+Fiber, total dietary: 0.96
+Fiber, total dietary: 0.76
+Fiber, total dietary: 0.905
+
+
+Food: Tomatillos, dehusked, raw
+Fiber, total dietary: 1.7
+Protein: 1.064375
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.4
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.7
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.6
+
+
+Food: Tomato juice, with added ingredients, from concentrate, shelf stable
+Carbohydrate, by difference: 4.320625
+Protein: 0.859375
+
+
+Food: Tomato, paste, canned, without salt added
+Carbohydrate, by difference: 20.188125
+Protein: 4.234375
+Fiber, total dietary: 4.704
+
+
+Food: Tomato, puree, canned
+Carbohydrate, by difference: 8.036875
+Protein: 1.578125
+Fiber, total dietary: 1.971
+
+
+Food: Tomato, roma
+Carbohydrate, by difference: 3.837475
+Protein: 0.695625
+Fiber, total dietary: 0.9706
+Carbohydrate, by difference: 3.837475
+Protein: 0.695625
+Fiber, total dietary: 0.9706
+
+
+Food: Tomato, sauce, canned, with salt added
+Carbohydrate, by difference: 6.331625
+Protein: 1.351875
+Fiber, total dietary: 1.636
+
+
+Food: Tomatoes, canned, red, ripe, diced
+Protein: 0.84
+Carbohydrate, by difference: 3.32
+Energy: 76.0
+Energy: 18.0
+
+
+Food: Tomatoes, crushed, canned
+Carbohydrate, by difference: 7.137
+Protein: 1.4375
+Fiber, total dietary: 1.944
+
+
+Food: Tomatoes, grape, raw
+Energy: 113.0
+Carbohydrate, by difference: 5.51
+Energy: 27.0
+Fiber, total dietary: 2.1
+Protein: 0.83
+
+
+Food: Tomatoes, whole, canned, solids and liquids, with salt added
+Carbohydrate, by difference: 4.2874
+Protein: 0.8675
+Fiber, total dietary: 0.8725
+
+
+Food: Tuna, ahi or yellowfin, frozen, wild caught
+Protein: 24.7
+Carbohydrate, by difference: -0.1045
+
+
+Food: Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles
+Protein: 27.1
+Energy: 922.0
+Energy: 220.0
+Carbohydrate, by difference: 0.0
+Energy: 922.0
+Protein: 27.1
+Energy: 220.0
+Carbohydrate, by difference: 0.0
+
+
+Food: Turkey, ground, 93% lean/ 7% fat, raw
+Protein: 17.34375
+Carbohydrate, by difference: 0.0
+
+
+Food: Turnips, raw
+Carbohydrate, by difference: 7.274975
+Protein: 0.953125
+Fiber, total dietary: 1.915
+Fiber, total dietary: 1.96
+Fiber, total dietary: 1.73
+Fiber, total dietary: 1.8
+Fiber, total dietary: 1.65
+Fiber, total dietary: 2.24
+Fiber, total dietary: 1.94
+Fiber, total dietary: 2.02
+Fiber, total dietary: 1.98
+
+
+Food: Watermelon, seedless, flesh only, raw
+Protein: 0.87125
+
+
+Food: Watermelon, seedless, rind only, raw
+Carbohydrate, by difference: 4.166
+Protein: 0.53125
+Fiber, total dietary: 1.535
+Fiber, total dietary: 1.58
+Fiber, total dietary: 1.94
+Fiber, total dietary: 1.35
+Fiber, total dietary: 1.45
+Fiber, total dietary: 1.61
+Fiber, total dietary: 1.18
+Fiber, total dietary: 1.72
+Fiber, total dietary: 1.45
+
+
+Food: Wild rice, dry, raw
+Carbohydrate, by difference: 75.6695
+Protein: 12.7875
+Fiber, total dietary: 4.26
+Fiber, total dietary: 4.33
+Fiber, total dietary: 3.56
+Fiber, total dietary: 4.4
+Fiber, total dietary: 4.49
+Fiber, total dietary: 4.1
+Fiber, total dietary: 4.25
+Fiber, total dietary: 3.97
+Fiber, total dietary: 4.98
+
+
+Food: Yogurt, Greek, plain, nonfat
+Energy: 61.0
+Carbohydrate, by difference: 3.64
+Protein: 10.3
+Energy: 256.0
+
+
+Food: Yogurt, Greek, plain, whole milk
+Carbohydrate, by difference: 4.75402
+Protein: 8.77888
+
+
+Food: Yogurt, Greek, strawberry, nonfat
+Energy: 347.0
+Energy: 83.0
+Carbohydrate, by difference: 12.2
+Protein: 8.06
+Fiber, total dietary: 0.6
+
+
+Food: Yogurt, plain, nonfat
+Carbohydrate, by difference: 8.07675
+Protein: 4.22675
+
+
+Food: Yogurt, plain, whole milk
+Carbohydrate, by difference: 5.574928
+Protein: 3.824172
+
+
+Food: almond butter, creamy
+Fiber, total dietary: 9.24
+Fiber, total dietary: 9.385
+Fiber, total dietary: 9.54
+Fiber, total dietary: 9.7
+Fiber, total dietary: 9.61
+Fiber, total dietary: 9.67
+Fiber, total dietary: 10.3
+Fiber, total dietary: 10.3
+
+
+Food: almond milk, refrigerated, unsweetened
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: amaranth, flour
+Fiber, total dietary: 2.42
+Fiber, total dietary: 8.97
+Fiber, total dietary: 6.97
+Fiber, total dietary: 6.97
+Fiber, total dietary: 9.16
+Fiber, total dietary: 7.48
+Fiber, total dietary: 8.22
+Fiber, total dietary: 7.48
+
+
+Food: barley, flour
+Fiber, total dietary: 9.85
+Fiber, total dietary: 11.7
+Fiber, total dietary: 10.3
+Fiber, total dietary: 18.1
+Fiber, total dietary: 10.8
+Fiber, total dietary: 10.1
+Fiber, total dietary: 11.4
+Fiber, total dietary: 20.1
+
+
+Food: brazil nuts, raw
+Fiber, total dietary: 6.12
+Fiber, total dietary: 5.86
+Fiber, total dietary: 6.36
+Fiber, total dietary: 5.29
+Fiber, total dietary: 5.7
+Fiber, total dietary: 6.37
+Fiber, total dietary: 5.93
+Fiber, total dietary: 6.24
+
+
+Food: brown rice, long grain, unenriched
+Fiber, total dietary: 3.37
+Fiber, total dietary: 2.74
+Fiber, total dietary: 3.39
+Fiber, total dietary: 2.77
+Fiber, total dietary: 2.66
+Fiber, total dietary: 3.4
+Fiber, total dietary: 3.24
+Fiber, total dietary: 2.6
+
+
+Food: buckwheat, flour
+Fiber, total dietary: 2.77
+Fiber, total dietary: 17.5
+Fiber, total dietary: 1.8
+Fiber, total dietary: 14.5
+Fiber, total dietary: 17.7
+Fiber, total dietary: 22.9
+Fiber, total dietary: 2.13
+Fiber, total dietary: 3.49
+
+
+Food: buckwheat, whole grain
+Fiber, total dietary: 3.77
+Fiber, total dietary: 4.66
+Fiber, total dietary: 3.36
+Fiber, total dietary: 4.17
+Fiber, total dietary: 5.08
+Fiber, total dietary: 3.24
+Fiber, total dietary: 3.88
+Fiber, total dietary: 4.21
+
+
+Food: carrots, baby, raw, peeled
+Fiber, total dietary: 2.815
+Fiber, total dietary: 2.825
+Fiber, total dietary: 2.61
+Fiber, total dietary: 2.66
+Fiber, total dietary: 2.77
+Fiber, total dietary: 2.59
+Fiber, total dietary: 2.67
+Fiber, total dietary: 2.61
+
+
+Food: carrots, mature, raw
+Fiber, total dietary: 3.13
+Fiber, total dietary: 3.04
+Fiber, total dietary: 3.07
+Fiber, total dietary: 3.12
+Fiber, total dietary: 3.28
+Fiber, total dietary: 3.37
+Fiber, total dietary: 2.74
+Fiber, total dietary: 3.01
+
+
+Food: cashews, raw
+Fiber, total dietary: 3.82
+Fiber, total dietary: 4.17
+Fiber, total dietary: 3.74
+Fiber, total dietary: 5.55
+Fiber, total dietary: 3.63
+Fiber, total dietary: 3.64
+Fiber, total dietary: 4.29
+Fiber, total dietary: 3.99
+
+
+Food: cassava flour
+Fiber, total dietary: 8.6
+Fiber, total dietary: 4.97
+Fiber, total dietary: 5.84
+Fiber, total dietary: 0.0
+Fiber, total dietary: 7.11
+Fiber, total dietary: 4.9
+Fiber, total dietary: 1.35
+Fiber, total dietary: 5.9
+
+
+Food: chestnut flour
+Fiber, total dietary: 8.19
+Fiber, total dietary: 7.42
+Fiber, total dietary: 9.26
+Fiber, total dietary: 8.73
+Fiber, total dietary: 8.73
+Fiber, total dietary: 11.0
+Fiber, total dietary: 7.69
+Fiber, total dietary: 8.67
+
+
+Food: coconut flour
+Fiber, total dietary: 32.3
+Fiber, total dietary: 39.5
+Fiber, total dietary: 34.6
+Fiber, total dietary: 33.4
+Fiber, total dietary: 31.4
+Fiber, total dietary: 37.0
+Fiber, total dietary: 30.9
+Fiber, total dietary: 34.8
+
+
+Food: flour, 00
+Fiber, total dietary: 2.57
+Fiber, total dietary: 2.81
+Fiber, total dietary: 2.8
+Fiber, total dietary: 2.28
+Fiber, total dietary: 2.76
+Fiber, total dietary: 2.31
+Fiber, total dietary: 3.1
+Fiber, total dietary: 2.62
+
+
+Food: flour, semolina, fine
+Fiber, total dietary: 4.155
+Fiber, total dietary: 3.86
+Fiber, total dietary: 3.63
+Fiber, total dietary: 3.41
+Fiber, total dietary: 4.11
+Fiber, total dietary: 3.56
+Fiber, total dietary: 2.87
+Fiber, total dietary: 3.87
+
+
+Food: flour, spelt, whole grain
+Fiber, total dietary: 10.48
+Fiber, total dietary: 7.08
+Fiber, total dietary: 9.89
+Fiber, total dietary: 10.61
+Fiber, total dietary: 10.04
+Fiber, total dietary: 8.39
+Fiber, total dietary: 4.53
+Fiber, total dietary: 13.69
+
+
+Food: ground flaxseed meal
+Fiber, total dietary: 21.6
+Fiber, total dietary: 21.0
+Fiber, total dietary: 36.7
+Fiber, total dietary: 22.3
+Fiber, total dietary: 21.5
+Fiber, total dietary: 18.6
+Fiber, total dietary: 22.5
+Fiber, total dietary: 20.85
+
+
+Food: hazelnuts, raw
+Fiber, total dietary: 8.57
+Fiber, total dietary: 9.44
+Fiber, total dietary: 10.3
+Fiber, total dietary: 8.15
+Fiber, total dietary: 6.84
+Fiber, total dietary: 6.9
+Fiber, total dietary: 7.78
+Fiber, total dietary: 9.3
+
+
+Food: macadamia nuts, raw
+Fiber, total dietary: 6.88
+Fiber, total dietary: 4.76
+Fiber, total dietary: 6.76
+Fiber, total dietary: 7.53
+Fiber, total dietary: 8.13
+Fiber, total dietary: 11.8
+Fiber, total dietary: 9.37
+Fiber, total dietary: 5.27
+
+
+Food: millet, whole grain
+Fiber, total dietary: 3.12
+Fiber, total dietary: 2.79
+Fiber, total dietary: 3.33
+Fiber, total dietary: 3.36
+Fiber, total dietary: 2.92
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.39
+Fiber, total dietary: 2.74
+
+
+Food: mushrooms, crimini
+Fiber, total dietary: 1.95
+Fiber, total dietary: 1.43
+Fiber, total dietary: 2.495
+Fiber, total dietary: 2.3
+Fiber, total dietary: 1.15
+Fiber, total dietary: 1.36
+
+
+Food: mushrooms, enoki
+Fiber, total dietary: 2.7
+Fiber, total dietary: 2.16
+Fiber, total dietary: 4.2
+Fiber, total dietary: 3.37
+Fiber, total dietary: 2.26
+Fiber, total dietary: 2.98
+
+
+Food: mushrooms, hon-shimiji (beech), white
+Fiber, total dietary: 3.77
+Fiber, total dietary: 3.17
+Fiber, total dietary: 2.81
+Fiber, total dietary: 2.82
+Fiber, total dietary: 1.88
+Fiber, total dietary: 3.92
+Fiber, total dietary: 3.53
+Fiber, total dietary: 3.21
+
+
+Food: mushrooms, king oyster
+Fiber, total dietary: 2.91
+Fiber, total dietary: 2.75
+Fiber, total dietary: 3.15
+Fiber, total dietary: 3.48
+Fiber, total dietary: 3.62
+Fiber, total dietary: 2.78
+Fiber, total dietary: 2.18
+Fiber, total dietary: 3.2
+
+
+Food: mushrooms, maitake
+Fiber, total dietary: 2.23
+Fiber, total dietary: 3.32
+Fiber, total dietary: 3.16
+Fiber, total dietary: 2.43
+Fiber, total dietary: 2.92
+Fiber, total dietary: 3.845
+Fiber, total dietary: 4.2
+Fiber, total dietary: 2.46
+
+
+Food: mushrooms, pioppini
+Fiber, total dietary: 2.17
+Fiber, total dietary: 3.48
+Fiber, total dietary: 1.04
+Fiber, total dietary: 3.13
+Fiber, total dietary: 3.55
+Fiber, total dietary: 3.2
+Fiber, total dietary: 3.15
+Fiber, total dietary: 2.3
+
+
+Food: mushrooms, portabella
+Fiber, total dietary: 2.18
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.89
+Fiber, total dietary: 1.575
+Fiber, total dietary: 1.82
+Fiber, total dietary: 1.91
+
+
+Food: oat milk, refrigerated, unsweetened
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: pawpaw, peeled, seeded, raw
+Fiber, total dietary: 2.6
+Fiber, total dietary: 3.0
+Fiber, total dietary: 2.9
+Fiber, total dietary: 3.1
+Fiber, total dietary: 2.8
+Fiber, total dietary: 4.4
+Fiber, total dietary: 4.0
+
+
+Food: peanut butter, creamy
+Fiber, total dietary: 6.01
+Fiber, total dietary: 6.44
+Fiber, total dietary: 6.03
+Fiber, total dietary: 6.715
+Fiber, total dietary: 6.05
+Fiber, total dietary: 6.16
+Fiber, total dietary: 6.77
+Fiber, total dietary: 6.41
+
+
+Food: peanuts, raw
+Fiber, total dietary: 6.34
+Fiber, total dietary: 7.5
+Fiber, total dietary: 8.78
+Fiber, total dietary: 6.7
+Fiber, total dietary: 8.54
+Fiber, total dietary: 8.78
+Fiber, total dietary: 8.62
+Fiber, total dietary: 8.85
+
+
+Food: peppers, bell, green, raw
+Fiber, total dietary: 0.928
+Fiber, total dietary: 0.976
+Fiber, total dietary: 0.896
+Fiber, total dietary: 1.1
+Fiber, total dietary: 0.998
+Fiber, total dietary: 0.906
+Fiber, total dietary: 0.9
+Fiber, total dietary: 0.831
+
+
+Food: peppers, bell, orange, raw
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.914
+Fiber, total dietary: 0.879
+Fiber, total dietary: 1.1
+Fiber, total dietary: 1.11
+Fiber, total dietary: 1.05
+Fiber, total dietary: 0.9
+Fiber, total dietary: 0.944
+
+
+Food: peppers, bell, orange, raw, mini 
+Fiber, total dietary: 1.81
+
+
+Food: peppers, bell, red, raw
+Fiber, total dietary: 0.991
+Fiber, total dietary: 1.23
+Fiber, total dietary: 1.101
+Fiber, total dietary: 0.934
+Fiber, total dietary: 1.39
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.27
+Fiber, total dietary: 1.17
+
+
+Food: peppers, bell, red, raw, mini 
+Fiber, total dietary: 1.04
+
+
+Food: peppers, bell, yellow, raw
+Fiber, total dietary: 1.1
+Fiber, total dietary: 1.03
+Fiber, total dietary: 1.175
+Fiber, total dietary: 1.09
+Fiber, total dietary: 1.04
+Fiber, total dietary: 1.2
+Fiber, total dietary: 1.05
+Fiber, total dietary: 0.0
+
+
+Food: peppers, bell, yellow, raw, mini 
+Fiber, total dietary: 1.95
+
+
+Food: pistachio nuts, raw
+Fiber, total dietary: 7.61
+Fiber, total dietary: 6.67
+Fiber, total dietary: 6.34
+Fiber, total dietary: 5.98
+Fiber, total dietary: 7.44
+Fiber, total dietary: 7.87
+Fiber, total dietary: 6.18
+Fiber, total dietary: 7.66
+
+
+Food: pumpkin seeds (pepitas), raw
+Fiber, total dietary: 4.99
+Fiber, total dietary: 5.4
+Fiber, total dietary: 4.75
+Fiber, total dietary: 5.1
+Fiber, total dietary: 5.1
+Fiber, total dietary: 5.12
+Fiber, total dietary: 4.57
+Fiber, total dietary: 5.6
+
+
+Food: quinoa, flour
+Fiber, total dietary: 4.66
+Fiber, total dietary: 4.35
+Fiber, total dietary: 6.05
+Fiber, total dietary: 8.24
+Fiber, total dietary: 6.73
+Fiber, total dietary: 7.5
+Fiber, total dietary: 6.18
+Fiber, total dietary: 6.65
+
+
+Food: rye, flour
+Fiber, total dietary: 13.3
+Fiber, total dietary: 15.6
+Fiber, total dietary: 7.33
+Fiber, total dietary: 14.9
+Fiber, total dietary: 14.0
+Fiber, total dietary: 14.4
+Fiber, total dietary: 15.0
+Fiber, total dietary: 14.9
+
+
+Food: sesame seed butter (tahini), creamy
+Fiber, total dietary: 8.31
+Fiber, total dietary: 8.53
+Fiber, total dietary: 8.815
+Fiber, total dietary: 8.38
+Fiber, total dietary: 8.79
+Fiber, total dietary: 7.48
+Fiber, total dietary: 8.6
+Fiber, total dietary: 8.07
+
+
+Food: sorghum, flour
+Fiber, total dietary: 6.02
+Fiber, total dietary: 2.35
+Fiber, total dietary: 6.43
+Fiber, total dietary: 6.81
+Fiber, total dietary: 6.21
+Fiber, total dietary: 8.12
+Fiber, total dietary: 6.63
+Fiber, total dietary: 5.58
+
+
+Food: soy milk, refrigerated, sweetened
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+
+
+Food: sunflower seed kernels, raw
+Fiber, total dietary: 6.18
+Fiber, total dietary: 8.06
+Fiber, total dietary: 7.39
+Fiber, total dietary: 7.59
+Fiber, total dietary: 7.15
+Fiber, total dietary: 6.44
+Fiber, total dietary: 7.67
+Fiber, total dietary: 7.24
+
+
+Food: tomato, paste, canned, double- concentrated, without salt added
+Fiber, total dietary: 4.62
+
+
+Food: tomato, paste, canned, without salt added
+Fiber, total dietary: 4.49
+Fiber, total dietary: 4.25
+Fiber, total dietary: 4.58
+Fiber, total dietary: 5.36
+Fiber, total dietary: 4.45
+Fiber, total dietary: 4.7
+Fiber, total dietary: 5.18
+
+
+Food: tomato, puree, canned, no salt added
+Fiber, total dietary: 1.65
+Fiber, total dietary: 2.09
+Fiber, total dietary: 1.99
+Fiber, total dietary: 1.51
+Fiber, total dietary: 1.52
+Fiber, total dietary: 2.03
+Fiber, total dietary: 2.12
+
+
+Food: tomato, puree, canned, salt added
+Fiber, total dietary: 2.86
+
+
+Food: tomato, sauce, canned, with salt added
+Fiber, total dietary: 2.05
+Fiber, total dietary: 1.14
+Fiber, total dietary: 1.21
+Fiber, total dietary: 1.56
+Fiber, total dietary: 2.0
+Fiber, total dietary: 1.55
+Fiber, total dietary: 1.94
+Fiber, total dietary: 1.64
+
+
+Food: tomatoes, crushed, canned, no salt added
+Fiber, total dietary: 2.08
+
+
+Food: tomatoes, crushed, canned, salt added
+Fiber, total dietary: 2.48
+Fiber, total dietary: 1.4
+Fiber, total dietary: 2.79
+Fiber, total dietary: 2.16
+Fiber, total dietary: 1.3
+Fiber, total dietary: 1.9
+Fiber, total dietary: 1.44
+
+
+Food: tomatoes, whole, canned, solids and liquids, with salt added
+Fiber, total dietary: 0.74
+Fiber, total dietary: 0.79
+Fiber, total dietary: 0.7
+Fiber, total dietary: 1.04
+Fiber, total dietary: 0.79
+Fiber, total dietary: 0.96
+Fiber, total dietary: 0.92
+Fiber, total dietary: 1.04
+
+
+Food: white rice, long grain, unenriched
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0
+Fiber, total dietary: 1.19
+Fiber, total dietary: 0.0
+Fiber, total dietary: 0.0

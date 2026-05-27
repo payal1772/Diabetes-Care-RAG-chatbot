@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diabetes Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+</head>
+<body>
+
+    <div class="container dashboard-container">
+        <div class="dashboard-header">
+            <div>
+                <h1>Diabetes Analytics Dashboard</h1>
+                <p>Recent glucose, meal, sleep, hydration, activity, and symptom context.</p>
+            </div>
+            <a class="dashboard-link dashboard-back" href="chatbot.html">Chat</a>
+        </div>
+
+        <section class="metric-grid" aria-label="Current metrics">
+            <article class="metric-card">
+                <span>Latest Glucose</span>
+                <strong id="latestGlucose">--</strong>
+                <small>mg/dL</small>
+            </article>
+            <article class="metric-card">
+                <span>Avg Sleep</span>
+                <strong id="avgSleep">--</strong>
+                <small>hours</small>
+            </article>
+            <article class="metric-card">
+                <span>Total Water</span>
+                <strong id="totalWater">--</strong>
+                <small>glasses</small>
+            </article>
+            <article class="metric-card">
+                <span>Latest Steps</span>
+                <strong id="latestSteps">--</strong>
+                <small>today</small>
+            </article>
+        </section>
+        <div class="analytics-grid">
+    <div class="analytics-card">
+        <h3>Average Glucose</h3>
+        <p id="avgGlucose">--</p>
+    </div>
+
+    <div class="analytics-card">
+        <h3>Highest Glucose</h3>
+        <p id="highestGlucose">--</p>
+    </div>
+
+    <div class="analytics-card">
+        <h3>Time In Range</h3>
+        <p id="timeInRange">--</p>
+    </div>
+
+    <div class="analytics-card">
+        <h3>Risky Meal</h3>
+        <p id="riskyMeal">--</p>
+    </div>
+
+    <div class="analytics-card">
+        <h3>Low Sleep Avg Glucose</h3>
+        <p id="lowSleepGlucose">--</p>
+    </div>
+</div>
+        <section class="chart-panel chart-panel-main" aria-label="Glucose trend">
+            <div id="glucoseChart" class="chart chart-large"></div>
+        </section>
+
+        <section class="mini-chart-grid" aria-label="Lifestyle trends">
+            <article class="chart-panel">
+                <div id="sleepChart" class="chart chart-small"></div>
+            </article>
+            <article class="chart-panel">
+                <div id="waterChart" class="chart chart-small"></div>
+            </article>
+            <article class="chart-panel">
+                <div id="stepsChart" class="chart chart-small"></div>
+            </article>
+        </section>
+
+        <section class="recent-logs" aria-label="Recent logs">
+            <h2>Recent Context</h2>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Glucose</th>
+                            <th>Meal</th>
+                            <th>Sleep</th>
+                            <th>Water</th>
+                            <th>Steps</th>
+                            <th>Symptoms</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recentLogs"></tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script src="js/dashboard.js"></script>
+</body>
+</html>

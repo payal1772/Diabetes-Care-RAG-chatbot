@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Diabetes RAG Assistant</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<main class="auth-shell">
+    <section class="auth-card" aria-label="Create account">
+        <div class="auth-intro">
+            <p class="eyebrow">Get started</p>
+            <h1>Diabetes Care Chat</h1>
+            <p>Create a profile to keep your glucose, meals, sleep, hydration, activity, and symptom context together.</p>
+
+            <div class="auth-highlights" aria-label="App highlights">
+                <span>Daily logs</span>
+                <span>Dashboard metrics</span>
+                <span>Safe guidance</span>
+            </div>
+        </div>
+
+        <form class="auth-form" onsubmit="event.preventDefault(); registerUser();">
+            <div class="auth-form-header">
+                <h2>Create account</h2>
+                <p>Set up your assistant profile.</p>
+            </div>
+
+            <label>
+                <span>Name</span>
+                <input type="text" id="name" placeholder="Your name" autocomplete="name" required>
+            </label>
+
+            <label>
+                <span>Email</span>
+                <input type="email" id="email" placeholder="you@example.com" autocomplete="email" required>
+            </label>
+
+            <label>
+                <span>Password</span>
+                <input type="password" id="password" placeholder="Create a password" autocomplete="new-password" required>
+            </label>
+
+            <button type="submit">Register</button>
+
+            <p id="authMessage" aria-live="polite"></p>
+
+            <p class="auth-switch">Already registered? <a href="login.html">Login here</a></p>
+        </form>
+    </section>
+</main>
+
+<script src="js/auth.js"></script>
+</body>
+</html>

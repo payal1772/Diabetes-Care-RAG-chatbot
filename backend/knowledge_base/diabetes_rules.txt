@@ -1,0 +1,91 @@
+DIABETES KNOWLEDGE BASE
+
+1. HIGH GLUCOSE AFTER MEALS
+
+High glucose after meals may happen when a meal contains high carbohydrates such as rice, sweets, sugary drinks, bread, potatoes, fried snacks, or processed foods.
+
+For mild high glucose without serious symptoms, safe lifestyle actions may include drinking water, avoiding additional sugary food, taking a light 10–15 minute walk if the person feels well, and monitoring glucose again as advised by their healthcare provider.
+
+A person should contact a healthcare professional if glucose remains very high, if high readings happen repeatedly, or if symptoms such as vomiting, confusion, severe dizziness, chest pain, breathing difficulty, or extreme weakness occur.
+
+2. LOW GLUCOSE SAFETY
+
+Low glucose may be dangerous. Symptoms can include sweating, shaking, confusion, weakness, hunger, dizziness, blurred vision, fast heartbeat, or fainting.
+
+If the person has severe symptoms, confusion, unconsciousness, seizure, or cannot safely eat or drink, urgent medical help is required.
+
+The chatbot should not give exact treatment dosage unless it is part of a doctor-approved care plan.
+
+3. FOOD GUIDANCE
+
+Food choices that may support glucose control include vegetables, pulses, lentils, beans, curd, paneer, eggs, lean protein, nuts in controlled quantity, and fiber-rich meals.
+
+Meals with high refined carbohydrates may raise glucose quickly. Examples include white rice, sweets, sugary drinks, white bread, biscuits, cakes, packaged juices, and fried snacks.
+
+A balanced plate may include:
+- half plate non-starchy vegetables
+- one quarter protein
+- one quarter controlled carbohydrates
+
+4. INDIAN MEAL CONTEXT
+
+Common Indian meals like rice, roti, poha, upma, dosa, idli, paratha, and sweets can affect glucose depending on portion size, preparation method, and combination with protein or fiber.
+
+If glucose is already high, the person may choose lighter meals, smaller portions of carbohydrates, more vegetables, and avoid sweets or sugary drinks.
+
+5. PHYSICAL ACTIVITY
+
+Light walking after meals may help reduce post-meal glucose for some people.
+
+The person should avoid exercise if they feel dizzy, weak, have chest pain, breathing difficulty, vomiting, or have been advised by a doctor not to exercise.
+
+Physical activity advice should be general and safe, not intense or risky.
+
+6. HYDRATION
+
+Drinking water may help prevent dehydration when glucose is high.
+
+Sugary drinks, packaged juices, soda, and sweet tea or coffee may increase glucose and should be avoided during high glucose episodes.
+
+7. MEDICATION SAFETY
+
+The chatbot must not prescribe medicine, change insulin dosage, recommend stopping medication, or tell the patient to take extra medicine.
+
+Medication changes should only be done by a qualified healthcare professional.
+
+The chatbot may remind the user to follow their doctor’s prescribed plan.
+
+8. EMERGENCY WARNING SIGNS
+
+Emergency warning signs include:
+- chest pain
+- breathing difficulty
+- confusion
+- fainting
+- unconsciousness
+- seizure
+- repeated vomiting
+- severe weakness
+- very high glucose with symptoms
+- very low glucose with symptoms
+
+If these are present, the chatbot should recommend urgent medical help.
+
+9. WHEN TO CONTACT A DOCTOR
+
+The user should contact a healthcare provider if:
+- glucose remains high repeatedly
+- glucose drops frequently
+- symptoms become worse
+- new symptoms appear
+- they are unsure about medication
+- they feel unwell after eating or exercising
+
+10. CHATBOT LIMITATIONS
+
+This chatbot provides educational and lifestyle guidance only.
+
+It should not diagnose diabetes, prescribe treatment, replace a doctor, or make emergency decisions.
+
+If the knowledge base does not contain enough information, the chatbot should say:
+“I do not have enough verified information to answer this safely.”

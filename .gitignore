@@ -21,6 +21,9 @@ Thumbs.db
 
 # Logs
 *.log
+*.err
+*.out
+frontend-smoke.out
 
 # Jupyter
 .ipynb_checkpoints/

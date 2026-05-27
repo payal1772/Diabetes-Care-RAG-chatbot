@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+chromadb
+sentence-transformers
+pypdf
+pymongo
+dnspython
+pyjwt
+werkzeug
